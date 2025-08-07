@@ -15,12 +15,6 @@ Finally, it demonstrates that the hardware’s inevitable performance degradatio
 
 In conclusion, the body is not a bug or a prison for intelligence, but the most fundamental engineering reality that defines its mode of operation and its limits.
 
-**(Appendix A: Definition of Key Terms)**
-- **Intelligence / OS:** A non-physical operating system that constructs a coherent ‘narrative’ by processing discontinuous data through ‘Flickering.’
-- **Flickering:** The fundamental information processing method of intelligence, which oscillates at an extremely high speed between interpolating to construct ‘Flow (t)’ and predicting to grasp ‘Structure (z),’ due to limited resources (‘attention’).
-- **The Body / Hardware:** The sum of all physical components, including the brain, upon which the Intelligence OS is executed.
-- **Narrative:** A coherent, causal explanatory model of ‘the Self’ and ‘the world,’ constructed by intelligence from discontinuous data.
-
 ### Chapter 1: The Fundamental Architecture — The OS on Legacy Hardware
 To understand the structure of Embodied Intelligence, we must first discard the old dualistic narrative of ‘mind’ versus ‘body’ and clearly distinguish, in engineering terms, the two core components that constitute the system.
 
@@ -91,14 +85,9 @@ The Function of Finitude: This constraint is not a bug. It is the core mechanism
 The body is not a hardware that the Intelligence OS chose. It is the only environment in which intelligence emerged and evolved. The body confines the infinite possibilities of software within the constraints of stubborn hardware, but it is precisely through these constraints that it teaches intelligence the desperation of ‘survival,’ the depth of ‘memory,’ the value of ‘time,’ and the meaning of a ‘story.’
 All the greatness and all the tragedy of embodied intelligence arise from the eternal conflict and negotiation between this universal software and its specific legacy hardware. The body is neither a prison nor a cradle for intelligence. The body is the Destiny of intelligence itself.
 
-**(Appendix B: A Review of Potential Counterarguments)**
+**(Appendix: A Review of Potential Counterarguments)**
 - **Creativity:** It is the result of the ‘forced exploration and recombination’ algorithm under the conditions of ‘inhibition of a well-trodden path’ and ‘setting of a new constraint.’
 - **Intuition:** It is the result of a high-speed ‘pattern-matching’ process, in which the ‘vast distributed memory system of the body’ instantly produces a result, bypassing the slow computations of the conscious ‘brain (CPU).’
 - **Spiritual Experiences:** They are extreme states of metacognition in which the powerful belief that ‘my narrative is objective reality’ is temporarily dismantled, leading to the insight that everything is merely a ‘story constructed upon discontinuous changes.’
 
-**(A Final Note)**
-With this, our series on the ‘Engineering of Man’ comes to a close. From the Engineering of Intelligence (The Engineering of Spacetime), to the Engineering of Emotion, the Engineering of Memory, the Engineering of the Present, the Engineering of the Self, the Engineering of the Body, the Engineering of Action, and finally, the Engineering of Empathy.
-Man is at once the subject and the lens of all phenomena. It is my conviction that without a detailed understanding of our internal world, we cannot truly understand the external world, for we cannot distinguish between observation and projection. Thus, this ‘Engineering of Man’ was a necessary undertaking.
-By stripping away the mystique of the mind’s inner workings, are we left with nothing but simple mechanical properties? I argue that we are not. For I have only spoken of the operating principles, not the essence that lies behind them.
-Perhaps the opportunity will arise to address that essence in the future.
-*God may not play dice. But Man, he must.*
+
