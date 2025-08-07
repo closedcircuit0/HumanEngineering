@@ -1,4 +1,4 @@
-#The Physics of Flickering: From Subjective Time to Quantum Uncertainty
+# The Physics of Flickering: From Subjective Time to Quantum Uncertainty
 
 > The tz-Theory and The Flickering Reality
 
