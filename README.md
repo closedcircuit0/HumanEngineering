@@ -1,6 +1,6 @@
 # HumanEngineering
 
-> To understand reality, we must first deconstruct the engine of perception. This project explores the engineering of the human mind to establish the fundamental axioms that govern not only ourselves, but physics, mathematics, and all systems we observe.
+> This is a work of first philosophy, executed with the precision of engineering. It deconstructs the observer's mind to establish the fundamental axioms that govern our construction of reality, from the simplest perception to the most complex thoughts.
 
 ## The 9 Theses of the Mind (The Core Principles)
 
