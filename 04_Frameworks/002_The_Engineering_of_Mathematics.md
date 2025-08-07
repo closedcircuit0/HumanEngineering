@@ -1,6 +1,6 @@
-# A Compass, Not the Territory: A New Philosophy of Mathematics
+# The Engineering of Mathematics
 
-> How the greatest tool we invented to predict the world can also become the greatest illusion that blinds us to it.
+> A Compass, Not the Territory: How the greatest tool we invented to predict the world can also become the greatest illusion that blinds us to it.
 
 We believe that mathematics is the bedrock of reality. From the orbits of stars to the flow of electrons in a silicon chip, the universe seems to be written in the universal language of math. The equation ‘1+1=2’ is held up as the ultimate, unshakeable truth, transcending culture and time.
 
