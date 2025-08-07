@@ -52,8 +52,14 @@ This project is a single, interconnected system of thought. To fully understand 
 #### **Part 4: The Frameworks (External Interfaces)**
 *The external systems and protocols the human mind interacts with and creates.*
 
-1.  **[The Engineering of Language](./04_Frameworks/001_The_Engineering_of_Language.md)** - *The protocol for synchronizing internal worlds.*
-2.  **[The Engineering of Mathematics](./04_Frameworks/002_The_Engineering_of_Mathematics.md)** - *The formal grammar for prediction.*
+1.  **[The Engineering of Action](./04_Frameworks/001_The_Engineering_of_Action.md)** - *The practical framework for interaction.*
+2.  **[The Engineering of Language](./04_Frameworks/002_The_Engineering_of_Language.md)** - *The protocol for synchronizing internal worlds.*
+3.  **[The Engineering of Mathematics](./04_Frameworks/003_The_Engineering_of_Mathematics.md)** - *The formal grammar for prediction.*
+
+#### **Part 5: Case Studies (Applied Theory)**
+*Demonstrations of how the integrated theory can be applied to analyze complex real-world phenomena.*
+
+1.  **[The Collapse of the Storyteller](./05_Case_Studies/001_The_Collapse_of_the_Storyteller.md)** - *An engineering approach to dementia.*
 ---
 
 ## Glossary of Terms
