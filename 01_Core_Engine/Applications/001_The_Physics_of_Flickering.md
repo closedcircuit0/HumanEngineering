@@ -70,16 +70,34 @@ This single conclusion is what we have reached. We demonstrated that the engine'
 
 *A New Path for Quantum Computing Architecture*
 
-I propose that the core principle of this theory — ‘the observer’s perceptual mode defines the layers of reality’ — holds the potential to offer a new clue to solving engineering challenges in **Quantum Computing.**
+Personally, as I believe that all theories must be grounded in coherence with reality and feasibility, I propose that the core principle of this theory — the insight that ‘the observer’s perceptual mode (the t-z cycle) defines the layers of reality’ — holds the potential to offer a new clue to solving the most acute engineering challenges of reality.
 
-1.  **The Fundamental Dilemma of Current Quantum Computing:**
-    The greatest barrier is that the powerful state of **Quantum Superposition** (a t-mode ‘flow’ of possibilities) is easily ‘collapsed’ by the act of **Measurement** (a z-mode act to fix a ‘structure’). Current research takes a ‘defensive’ approach to fight this ‘collapse.’
+The most promising field of application for this is ‘Quantum Computing.’
 
-2.  **A Proposal for a New Paradigm: Coexistence with ‘Uncertainty’**
-    Instead of fighting ‘collapse,’ we can embrace the Uncertainty Principle as a ‘design principle.’
+**1. The Fundamental Dilemma of Current Quantum Computing: ‘Measurement’ as a Destructive Act**
 
-3.  **The Conceptual Blueprint of a ‘Prediction-Based Quantum Computing’ Architecture**
-    This architecture would mimic our intelligence’s ‘t-z cycle.’ It would circulate between:
-    *   **Minimal Structural Probing (z-mode ‘tap’):** Performing an extremely brief and limited ‘weak measurement’ to get a faint snapshot of the system's past state.
-    *   **Powerful Predictive Computation (dominant z-mode):** Using this faint data as a basis to perform a powerful internal simulation.
-    This ultra-high-speed feedback loop would stably move toward a ‘statistically useful enough’ result while minimizing collapse. This is not an immediately applicable blueprint, but it offers an unexpected perspective on how future quantum computers might overcome their fundamental limitations.
+The greatest barrier facing modern quantum computing is the fact that the powerful state of ‘quantum superposition’ — the very state where computation occurs — is easily ‘collapsed’ (Decoherence) by even the slightest interaction with the outside world, namely, the act of ‘Measurement’.
+
+*   **The Quantum State (t-mode/wave nature):** While a computation is running, a qubit exists in a ‘wave’ state of superimposed possibilities of 0 and 1, a ‘flow (t)’ of countless possibilities.
+*   **The Act of Measurement (z-mode/particle nature):** The moment a ‘measurement’ is made to check the result, this flow of possibilities collapses, and the state is fixed into a single, classical ‘structure (z)’ of either 0 or 1. This ‘collapse’ halts all quantum computation and generates errors.
+
+The current mainstream research takes a highly ‘defensive’ approach, trying to fight, suppress, or evade this enemy called ‘collapse’ through technologies like ‘Quantum Error Correction’.
+
+**2. A Proposal for a New Paradigm: Coexistence with ‘Uncertainty’**
+
+Our theory allows for a completely different approach to this problem. Instead of fighting ‘collapse’ as an enemy, we can accept the essence of the Uncertainty Principle — that “structure (z) and flow (t) cannot be perfectly processed at the same time” — and embrace it as a ‘design principle’ for our computing architecture.
+
+We can move beyond the paradigm of a ‘war against error’ to explore a new path of ‘coexistence with uncertainty.’
+
+**3. The Conceptual Blueprint of a ‘Prediction-Based Quantum Computing’ Architecture**
+
+An architecture based on this new philosophy would mimic our intelligence’s ‘t-z cycle’.
+
+*   **Minimal Structural Probing (The z-Mode ‘Tap’):** It forgoes continuous measurement that would completely collapse the system’s state. Instead, it performs an extremely brief and limited ‘weak measurement’ — a minimal ‘tap’ on reality to ask, “What is the structure right now?”. This is, in its essence, a minimal z-mode intervention.
+*   **Past Data Acquisition (The t-Mode Result):** Through this z-mode act, we obtain ‘faint and incomplete past data (t)’ about the system’s just-passed state. The probe gives us a single, blurry snapshot that instantly becomes part of our history.
+*   **Powerful Predictive Computation (Dominant z-Mode Prediction):** The computer then uses this newly acquired ‘faint data (t)’ as a basis to perform a powerful internal simulation.
+*   **Ultra-High-Speed Feedback Loop:** It circulates between this ‘faint measurement’ and ‘powerful prediction’ at an extremely high speed. The prediction error is continuously corrected by the next measurement, and the system, instead of giving up on perfect accuracy, stably moves toward a ‘statistically useful enough’ result while minimizing collapse.
+
+Of course, numerous technical challenges exist, such as “How do we implement ‘faint measurement’?” and “What ‘prediction algorithm’ is most efficient?”. This is not an engineering blueprint that can be immediately applied.
+
+However, I believe this can offer an unexpected perspective on how future quantum computers might overcome their fundamental limitations.
