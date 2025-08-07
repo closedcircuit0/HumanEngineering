@@ -28,10 +28,13 @@ This project is a single, interconnected system of thought. To fully understand 
 1.  **[The Vanished Present](./00_Axioms/001_The_Vanished_Present.md)** - *Why the engine must run.*
 2.  **[The Discontinuous World](./00_Axioms/002_The_World_is_Discontinuous.md)** - *The nature of the data the engine processes.*
 
-#### **Part 1: The Core Engine**
-*The inevitable process born from the axioms.*
+#### **Part 1: The Core Engine & Its Applications**
+*The inevitable process born from the axioms, and its explorations.*
 
 1.  **[The Engineering of Intelligence](./01_Core_Engine/001_The_Engineering_of_Intelligence.md)** - *How the engine flickers.*
+    *   **Derived Theories & Explorations:**
+        *   **[The Physics of Flickering](./01_Core_Engine/Applications/001_The_Physics_of_Flickering.md)** - *Applying the engine to subjective time and quantum uncertainty.*
+        *   **[One Engine, Two Minds](./01_Core_Engine/Applications/002_One_Engine_Two_Minds.md)** - *A comparative analysis of the engine in humans and AI.*
 
 #### **Part 2: The Core Architecture**
 *The operating system created by the engine's operation.*
@@ -54,4 +57,4 @@ For clear definitions of key concepts like `Flickering`, `Prediction-Error`, `Bi
 
 ---
 
-*God may not play dice. But Man, he must.*
+*God may not play dice. But Man, he must.*```
