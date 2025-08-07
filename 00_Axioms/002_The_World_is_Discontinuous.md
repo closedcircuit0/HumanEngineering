@@ -53,38 +53,43 @@ On the contrary, the very nature of physical reality offers strong arguments for
 In the process of developing this theory, I engaged in a series of dialogues with my AI partner. It consistently raised counterarguments rooted in established scientific consensus, which helped to sharpen the logic of this thesis. Here is a summary of that critical exchange.
 
 **AI’s Counterargument #1: The “Micro vs. Macro” Distinction**
-
-*   **The AI’s Position:** “The laws of physics apply differently at the microscopic (quantum, discrete) and macroscopic (classical, continuous) levels. Our perception of continuity at the macro level is a valid emergent phenomenon.”
-*   **My Rebuttal:** The boundary between the micro and macro worlds is arbitrary and ill-defined. Human perception operates at an extremely low resolution, making it impossible to distinguish microscopic discontinuity at a macroscopic scale. Furthermore, the very “continuous motion” we perceive macroscopically is itself a corrected output, constructed by the brain’s interpolation and pattern-prediction abilities.
+- **The AI’s Position:** “The laws of physics apply differently at the microscopic (quantum, discrete) and macroscopic (classical, continuous) levels. Our perception of continuity at the macro level is a valid emergent phenomenon.”
+- **My Rebuttal:** The boundary between the micro and macro worlds is arbitrary and ill-defined. Human perception operates at an extremely low resolution, making it impossible to distinguish microscopic discontinuity at a macroscopic scale. Furthermore, the very “continuous motion” we perceive macroscopically is itself a corrected output, constructed by the brain’s interpolation and pattern-prediction abilities.
 
 **AI’s Counterargument #2: The “Infinite Divisibility” as Proof of a Continuum**
-
-*   **The AI’s Position:** “If reality is infinitely divisible, that is the very definition of a continuum.”
-*   **My Rebuttal:** This confuses a property with its proof. The very nature of infinite division means that the possibility of ever finding proof of a “continuous point” is theoretically eliminated. One can never arrive at a final, indivisible point to verify its existence.
+- **The AI’s Position:** “If reality is infinitely divisible, that is the very definition of a continuum.”
+- **My Rebuttal:** This confuses a property with its proof. The very nature of infinite division means that the possibility of ever finding proof of a “continuous point” is theoretically eliminated. One can never arrive at a final, indivisible point to verify its existence.
 
 **AI’s Counterargument #3: The “Definition of Discontinuity” and a Continuous Self**
-
-*   **The AI’s Position:** “A falling apple is still the same apple. A river is still the same river from source to sea. This implies a continuous existence.”
-*   **My Rebuttal:** This relies on a flawed, everyday definition. True discontinuity means a separation between things that are not essentially the same. The apple hanging, the apple falling, and the apple on the ground are three distinct phenomena in different states of being.
+- **The AI’s Position:** “A falling apple is still the same apple. A river is still the same river from source to sea. This implies a continuous existence.”
+- **My Rebuttal:** This relies on a flawed, everyday definition. True discontinuity means a separation between things that are not essentially the same. The apple hanging, the apple falling, and the apple on the ground are three distinct phenomena in different states of being.
 
 **AI’s Counterargument #4: The “Approximation” Defense**
-
-*   **The AI’s Position:** “We may use discrete approximations for calculation, but the underlying reality the model describes is continuous.”
-*   **My Rebuttal:** If our observations are discrete, and our real-world applications are also discrete approximations, then where does continuity exist? It becomes a hypothetical concept trapped only within the mathematical model itself — a ghost in the machine. To mistake the tool for reality is a fundamental error.
+- **The AI’s Position:** “We may use discrete approximations for calculation, but the underlying reality the model describes is continuous.”
+- **My Rebuttal:** If our observations are discrete, and our real-world applications are also discrete approximations, then where does continuity exist? It becomes a hypothetical concept trapped only within the mathematical model itself — a ghost in the machine. To mistake the tool for reality is a fundamental error.
 
 **AI’s Counterargument #5: The “Utility and Perfection” Argument**
-
-*   **The AI’s Position:** “Continuity-based models are incredibly useful and successful. Their success proves their truth.”
-*   **My Rebuttal:** Their success proves the opposite. The reason they align so well is not because a perfect model tolerates a flawed application. It’s because reality itself is fundamentally discrete. Our discrete approximations are not a flawed lens distorting a continuous world; they are a sufficiently good match for a world that was already discrete to begin with.
+- **The AI’s Position:** “Continuity-based models are incredibly useful and successful. Their success proves their truth.”
+- **My Rebuttal:** Their success proves the opposite. The reason they align so well is not because a perfect model tolerates a flawed application. It’s because reality itself is fundamentally discrete. Our discrete approximations are not a flawed lens distorting a continuous world; they are a sufficiently good match for a world that was already discrete to begin with.
 
 **AI’s Counterargument #6: The “Graph of a Function” as Visual Proof**
-
-*   **The AI’s Position:** “A continuous graph drawn on a page is a clear, visual representation of continuity.”
-*   **My Rebuttal:** This raises a fundamental question about the existence of ‘points’ in physical reality. A ‘point’ in geometry is a purely abstract idea. The moment you display a “continuous” graph on any screen, it is rendered as a finite number of discrete pixels, instantly becoming a discrete approximation itself.
+- **The AI’s Position:** “A continuous graph drawn on a page is a clear, visual representation of continuity.”
+- **My Rebuttal:** This raises a fundamental question about the existence of ‘points’ in physical reality. A ‘point’ in geometry is a purely abstract idea. The moment you display a “continuous” graph on any screen, it is rendered as a finite number of discrete pixels, instantly becoming a discrete approximation itself.
 
 ### Conclusion
 The analysis presented in this report leads to a cascade of interlocking conclusions. We can never observe a true continuum. All laws premised on continuity are, in fact, models built upon discrete observations. These laws, in turn, rely on discrete approximations in practice. ‘Continuity,’ therefore, is not a feature of reality but an interpolative ghost that haunts our computational models.
 
 The burden of proof lies with those who assert the existence of this ghost. And since that proof is absent, while all available evidence points toward a granular, pixelated reality, I must conclude that:
 
-The world is, in its essence, discontinuous.```
+The world is, in its essence, discontinuous.
+
+**A Final Note on the Burden of Proof**
+A reasonable question might arise: “Shouldn’t the one claiming discontinuity also bear the burden of proof?”
+This is a fair challenge. My answer is this: direct proof of discontinuity, much like that of continuity, may be fundamentally beyond our reach.
+However, this project will not attempt to prove discontinuity through a single, decisive experiment. Instead, it will demonstrate its power and validity through a different method: by building a complete, coherent, and consistent worldview upon its foundation.
+The subsequent articles in this series will serve as the evidence. By showing how the axiom of discontinuity can solve long-standing paradoxes, demystify the complexities of the human mind, and design better artificial intelligence, we will make the case that it is a more powerful and useful foundation for understanding reality. The proof, then, will be in the explanatory power of the entire system.
+
+*If this is true, then how do we experience the smooth 'flow of time' and the 'three-dimensional space' in such a discontinuous world? In the next post, we will explore the marvelous engine that our brain uses to process this discontinuous reality: the 'tz-theory.'*
+
+**(A Note to the Reader:)**
+*This post serves as a foundational axiom for my entire worldview. For that reason, I have focused on logical rigor above all else. If you find the text challenging, I encourage you, as mentioned in the prologue, to ask your AI for a simpler explanation or to pose questions that can help deepen your own understanding.*
