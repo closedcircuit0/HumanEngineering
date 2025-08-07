@@ -90,7 +90,7 @@ The most fundamental difference between the mind and the body lies in **‘finit
 **5.2. Aging and Death: The Boundary and Urgency of the Narrative**
 *   **Aging:** The body’s performance gradually and irreversibly degrading over time.
 *   **Death:** The event of the body’s operation permanently ceasing.
-The Function of Finitude: This constraint is not a bug. It is the core mechanism that creates meaning by giving the narrative a ‘boundary’ and ‘urgency.’ The question, “What will I complete within my limited time?” is the most powerful driving force behind all of humanity’s creative and cultural activities.
+*   The Function of Finitude: This constraint is not a bug. It is the core mechanism that creates meaning by giving the narrative a ‘boundary’ and ‘urgency.’ The question, “What will I complete within my limited time?” is the most powerful driving force behind all of humanity’s creative and cultural activities.
 
 ---
 
