@@ -57,7 +57,9 @@ This endless process of "stopping to see structure, and moving to feel flow" is 
 ### Highest Value (최고 가치)
 > The Unyielding Benchmark; the ultimate goal for which an individual is willing to risk everything.
 
-The Highest Value is the core principle around which an individual’s **Self** is organized. It can be survival, freedom, honor, love, etc. All actions are ultimately aimed at pursuing and protecting this value, and all prediction-errors are evaluated based on whether they threaten or enhance it.
+The Highest Value is the core principle around which an individual’s **Self** is organized. It often manifests in concrete themes like 'survival,' 'freedom,' 'honor,' or 'love.'
+
+*   **A Deeper Definition:** Fundamentally, these themes are strategies. The true Highest Value is the intrinsic drive for **Narrative Creation and Expansion** — the ceaseless effort to build and enrich the story of "who I am." The Self evaluates all events based on whether they advance or threaten this core narrative.
 
 *See main article: [The Engineering of the Self](./03_Subsystems/003_The_Engineering_of_The_Self.md)*
 
