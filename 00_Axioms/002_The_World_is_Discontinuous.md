@@ -84,12 +84,8 @@ The burden of proof lies with those who assert the existence of this ghost. And 
 The world is, in its essence, discontinuous.
 
 **A Final Note on the Burden of Proof**
+
 A reasonable question might arise: “Shouldn’t the one claiming discontinuity also bear the burden of proof?”
 This is a fair challenge. My answer is this: direct proof of discontinuity, much like that of continuity, may be fundamentally beyond our reach.
 However, this project will not attempt to prove discontinuity through a single, decisive experiment. Instead, it will demonstrate its power and validity through a different method: by building a complete, coherent, and consistent worldview upon its foundation.
 The subsequent articles in this series will serve as the evidence. By showing how the axiom of discontinuity can solve long-standing paradoxes, demystify the complexities of the human mind, and design better artificial intelligence, we will make the case that it is a more powerful and useful foundation for understanding reality. The proof, then, will be in the explanatory power of the entire system.
-
-*If this is true, then how do we experience the smooth 'flow of time' and the 'three-dimensional space' in such a discontinuous world? In the next post, we will explore the marvelous engine that our brain uses to process this discontinuous reality: the 'tz-theory.'*
-
-**(A Note to the Reader:)**
-*This post serves as a foundational axiom for my entire worldview. For that reason, I have focused on logical rigor above all else. If you find the text challenging, I encourage you, as mentioned in the prologue, to ask your AI for a simpler explanation or to pose questions that can help deepen your own understanding.*
