@@ -1,4 +1,4 @@
-# The Engineering of the Self: A Construct of Bias and Stubbornness
+# The Engineering of the Self
 
 > Your Self is a predictive model that pursues energy efficiency to protect its Highest Value, and Wisdom is the art of its operation.
 
