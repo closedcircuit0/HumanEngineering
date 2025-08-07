@@ -83,6 +83,7 @@ The burden of proof lies with those who assert the existence of this ghost. And 
 
 The world is, in its essence, discontinuous.
 
+
 **A Final Note on the Burden of Proof**
 
 A reasonable question might arise: “Shouldn’t the one claiming discontinuity also bear the burden of proof?”
