@@ -1,7 +1,6 @@
-The Physics of Flickering
+The Physics of Flickering : From Subjective Time to Quantum Uncertainty
 
 > The tz-Theory and The Flickering Reality
-> From Subjective Time to Quantum Uncertainty
 
 *The Origin of the Arrow of Time and Quantum Uncertainty: The Inevitable Consequence of 3-Dimensional Perception*
 
