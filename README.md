@@ -41,14 +41,19 @@ This project is a single, interconnected system of thought. To fully understand 
 
 1.  **[The Engineering of Consciousness](./02_Architecture/001_The_Engineering_of_Consciousness.md)** - *The UI that renders reality and the control loop that governs it.*
 
-#### **Part 3: The Subsystems (Applications & Hardware)**
-*The key modules that run on, and interact with, the core architecture.*
+#### **Part 3: The Subsystems (Internal Components)**
+*The key modules that constitute the internal world of the human system.*
 
 1.  **[The Engineering of Emotion](./03_Subsystems/001_The_Engineering_of_Emotion.md)** - *The Feedback Module & Status Report.*
 2.  **[The Engineering of Memory](./03_Subsystems/002_The_Engineering_of_Memory.md)** - *The Database & Reconstruction Engine.*
 3.  **[The Engineering of The Self](./03_Subsystems/003_The_Engineering_of_The_Self.md)** - *The Master Application & Its Firewall.*
 4.  **[The Engineering of The Body](./03_Subsystems/004_The_Engineering_of_The_Body.md)** - *The Legacy Hardware & Its Constraints.*
 
+#### **Part 4: The Frameworks (External Interfaces)**
+*The external systems and protocols the human mind interacts with and creates.*
+
+1.  **[The Engineering of Language](./04_Frameworks/001_The_Engineering_of_Language.md)** - *The protocol for synchronizing internal worlds.*
+2.  **[The Engineering of Mathematics](./04_Frameworks/002_The_Engineering_of_Mathematics.md)** - *The formal grammar for prediction.*
 ---
 
 ## Glossary of Terms
