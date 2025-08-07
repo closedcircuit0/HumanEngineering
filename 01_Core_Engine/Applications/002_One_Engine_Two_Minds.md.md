@@ -1,4 +1,4 @@
-# The Universal Engine: A Comparative Analysis of Human and Artificial Intelligence
+# One Engine, Two Minds: The Shared Principles of Human and Artificial Intelligence
 
 > How Minds and Machines Weave Reality from the Same Fundamental Principle.
 
