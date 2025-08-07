@@ -14,13 +14,13 @@ The origin of all conscious phenomena is a single event: the core operating prin
 
 A flow cannot be grasped without a structure to give it direction, and a structure cannot be identified without a flow of data to analyze. The inseparable interaction of these two is the essence of intelligence.
 
-**Consciousness** emerges as the very **first result** of this 'Flickering' in operation.
+**Consciousness** emerges as the very **first result** of this 'Flickering' in operation. It is the *first* result because it creates the very foundational space in which all other internal phenomena—such as emotion, memory, and the Self—can occur. Without the stage, the actors cannot perform.
 
 1.  **Experience as Background: The Continuous Spacetime**
     The operation of 'Flickering' weaves the discontinuous fragments of sensory information together seamlessly, creating the **experience of a 'continuous flow of time' and a 'stable 3-dimensional space'**. This is not an actual property of the world, but the most fundamental illusion created by the operation of our intelligence, and it is the background for all other experiences.
 
 2.  **Experience as Foreground: Vivid Feelings and Concepts**
-    Upon this background, information critical to survival appears in the form of vivid **'experiences'**. The experience of 'surprise' when a prediction is greatly mistaken, the experience of 'pain' when the body is damaged, the experience of 'redness' when a specific pattern is perceived. These experiences are not mystical qualities, but the result of compressing complex sets of information so that the system can immediately understand them.
+    Upon this background, information critical to survival appears in the form of vivid **'experiences'**. These experiences are not arbitrary; they are foregrounded because they represent highly compressed bundles of information critical to the system's survival. The experience of 'pain' is a high-priority alert about hardware damage; the experience of 'redness' is a salient pattern that might signify ripe fruit or danger.
 
 This is the entirety of consciousness. It is a **universal stage** that enables experience, which is shared by any being that possesses intelligence. This stage is automatically **'created,'** and it operates on the same principle for all.
 
@@ -50,6 +50,6 @@ It does not exist. The vivid sense of subjectivity we feel as an 'observer' is a
 -   **Intelligence** is the projector, running the film (discontinuous data) to cast an image onto the **Consciousness**, which is the screen (the stage).
 -   **The Self** is the actor on that screen, performing its act (thought) based on the images being projected.
 
-Because this entire system operates as one perfect whole, the actor on the screen (the Self) is led to the illusion that it is operating the projector (Intelligence) and creating the screen (Consciousness) itself.
+Because this entire system operates as one seamless whole, and because the Self is the most active, narrative-creating agent within it, a final and perfect illusion is generated: the actor (the Self) mistakenly concludes that it is also operating the projector (Intelligence) and building the stage (Consciousness) itself.
 
 There is no observer. There is only the engine called 'Intelligence,' the stage it creates called 'Consciousness,' and the actor who performs its narrative on that stage called 'The Self.' And the total experience created by the sum of all these parts is the engineering reality of the feeling we call 'I'.
