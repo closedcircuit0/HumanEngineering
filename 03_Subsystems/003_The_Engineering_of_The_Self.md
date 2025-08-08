@@ -34,12 +34,12 @@ This is the basic mission of the ‘predictive engine.’ Prediction is the act 
 
 **The Third Pillar (The Engine): The Flickering of Interpolation-Prediction**
 
-So, how exactly does this predictive engine operate? It functions through a single process that we have discussed throughout this series: the ‘Flickering’ of interpolation and prediction.
+So, how exactly does this predictive engine operate? It functions through a single process that we have discussed throughout this series: the ‘F'lickering’ of interpolation and prediction.
 
-- **Interpolation:** The engine connects discontinuous events from the past in a causal chain, constructing a meaningful ‘narrative of the past’ about how one’s ‘Highest Value’ has been formed and protected.
-- **Prediction:** Based on that narrative, it infers a ‘path for the future’ on how to best protect one’s ‘Highest Value’ going forward.
+-   **Interpolation:** The engine connects discontinuous events into a causal chain, constructing a coherent **‘Flow’** or narrative. This story explains *how* one’s ‘Highest Value’ has been formed and *how* it can be realized.
+-   **Prediction:** Based on the data within that Flow, the engine extracts recurring patterns to infer a static **‘Structure’** or model. This model reveals *what* the situation is and *what* path is most likely to protect one’s ‘Highest Value.’
 
-Because it cannot process these two opposing directions of information simultaneously, intelligence has no choice but to ‘flicker,’ oscillating at an extremely high speed between the past (interpolation) and the future (prediction).
+Because it cannot process these two mutually exclusive modes of operation simultaneously, intelligence has no choice but to ‘flicker,’ oscillating at an extremely high speed between the act of constructing a ‘Flow’ (interpolation) and grasping a ‘Structure’ (prediction).
 
 In the relationship between these three pillars, we understand why ‘energy efficiency’ is so critical. ‘Energy’ is the finite resource that can be used to run this ‘flickering engine’ and pursue the ‘Highest Value.’ Therefore, ‘maximizing energy efficiency’ is not the ‘Highest Value’ itself, but the most fundamental operating strategy to achieve that value most effectively.
 
