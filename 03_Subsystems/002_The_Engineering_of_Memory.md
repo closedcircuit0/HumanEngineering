@@ -55,10 +55,10 @@ In the end, who is the final editor that bundles all these fragments of memory �
 
 The Self is, in itself, a ‘narrative.’ And the process of creating this narrative is identical to the operating principle of the ‘interpolation-prediction’ engine.
 
-- **Reconstructing the Past Self (t-axis interpolation):** We continually ask ourselves, “What kind of person was I in the past?” And centered on the memories (anchors) of success and failure, we reconstruct a narrative of the ‘past self’ that justifies our present self, such as, “I am a being who has grown by overcoming numerous hardships,” or “I have always been a lucky person.”
-- **Predicting the Future Self (z-axis prediction):** Based on this reconstructed past narrative, we predict and set a goal for the ‘future self’ by asking, “What kind of person will I be in the future?” We predict, “Since I have had many successful experiences, my future self will achieve even greater success.”
+- **Reconstructing the Past Self (interpolation):** We continually ask ourselves, “What kind of person was I in the past?” And centered on the memories (anchors) of success and failure, we reconstruct a narrative of the ‘past self’ that justifies our present self, such as, “I am a being who has grown by overcoming numerous hardships,” or “I have always been a lucky person.”
+- **Predicting the Future Self (prediction):** Based on this reconstructed past narrative, we predict and set a goal for the ‘future self’ by asking, “What kind of person will I be in the future?” We predict, “Since I have had many successful experiences, my future self will achieve even greater success.”
 
-Thus, the past self (t) becomes the most crucial material for creating the future self (z). We recreate the past through memory, and using that recreated past as a stepping stone, we imagine the future. The being called ‘I’ is an unstable yet dynamic creation, woven anew each moment in the narrative ‘flickering’ between this past and future.
+Thus, the past self becomes the most crucial material for creating the future self. We recreate the past through memory, and using that recreated past as a stepping stone, we imagine the future. The being called ‘I’ is an unstable yet dynamic creation, woven anew each moment in the narrative ‘flickering’ between this past and future.
 
 ### 5. The Memory of an Organism: The 8 Concertos of Brain and Body
 
