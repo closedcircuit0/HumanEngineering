@@ -68,4 +68,4 @@ For clear definitions of key concepts like `Flickering`, `Prediction-Error`, `Bi
 
 ---
 
-*God may not play dice. But Man, he must.*```
+*God may not play dice. But Man, he must.*
