@@ -69,13 +69,32 @@ Once the benchmark of ‘The Self’ is established, the success and failure of 
 
 And this emotion, in turn, forms a powerful ‘Ego-Feedback Loop’ that modifies or reinforces the self-model, relentlessly sculpting The Self.
 
-**(The detailed descriptions of the A, B, and C feedback loops remain the same as in the final Korean draft.)**
+**A. The Positive/Growth-Oriented Feedback Loop (Reinforcement and Expansion of The Self)**
+
+- **Input:** A Rewarding Success or a Constructive “Failure”
+- **Emotional Signal:** Satisfaction, Pride (for a Rewarding Success) or Joy, Eureka, Euphoria (for a Constructive “Failure”)
+- **Feedback Interpretation:** “The current self-model or its direction of expansion is valid for achieving the **core values**. Trust and further reinforce this model.”
+- **Result:** The confidence in the corresponding self-model (bias) increases, becoming more robust or positively expanding. This is the pleasure of achievement and growth.
+
+**B. The Negative/Threat-Oriented Feedback Loop (Threat and Defense of The Self)**
+
+- **Input:** An Unsatisfying Success or a Damaging Failure
+- **Emotional Signal:** Disappointment, Resignation (for an Unsatisfying Success) or Pain, Shock, Shame (for a Damaging Failure)
+- **Feedback Interpretation:** “A serious error, limitation, or external threat to the current self-model has been detected. Immediate action is required for system stability.”
+- **Result:** The system, in response to this powerful energy-depletion warning signal, prioritizes the activation of the ‘Firewall (Stubbornness),’ which will be explained in the next chapter.
+
+**C. The Stagnation/Exploration-Oriented Feedback Loop (The Motive to Find a New Game)**
+
+- **Input:** A Boring Success
+- **Emotional Signal:** Boredom, Tedium.
+- **Feedback Interpretation:** This is a clear signal to the system: “This prediction game is completely conquered and no longer provides any new information (prediction-error). This is an Informational Dead Zone. Continuing to invest energy here is a waste.”
+- **Result:** To escape this ‘pain of stagnation,’ the system is endowed with a powerful internal motivation to cease its current stable activity and seek out new, unpredictable stimuli and challenges — that is, to find a ‘new prediction game.’
 
 ### Chapter 5. The Construction and Operation of Stubbornness: The Firewall to Prevent a Collapse of The Self
 
 The system’s highest priority is to prevent the **Second Order, the 'Self' of peacetime, from collapsing.** When the powerful warning signal of ‘pain,’ triggered by a ‘Damaging Failure,’ is detected, The Self activates a sophisticated defense system: Stubbornness (The Firewall).
 
--   **The Engineering Definition of Stubbornness:** Stubbornness (The Firewall) is an existential defense mechanism that prevents the data of a ‘Damaging Failure’ from destroying the core of the self-model.
+-   **The Engineering Definition of Stubbornness:** Stubbornness (The Firewall) is an existential defense mechanism that prevents the data of a ‘Damaging Failure’ from destroying the core of the self-model. It is the system’s inertia that resists the massive energy consumption (switching cost) and existential instability required to immediately modify the model. The firewall is not a flaw, but an essential survival feature.
 -   **The True Meaning of a ‘Mistake’ and the Firewall’s Resistance:** What we call a ‘mistake’ is the moment we are forced to confront our own true values or self-deception. The reason the firewall so desperately resists is to prevent the terrifying revelation that the foundation of ‘who I am’ — my **core values** — might be false or hypocritical.
 -   **The Firewall’s Mode of Operation (Resistance): “I am not that kind of person!”**
     -   **Denial:** “That never happened.”
@@ -89,22 +108,34 @@ The system’s highest priority is to prevent the **Second Order, the 'Self' of 
 
 ### Chapter 6. The Pathology of The Self: The Self-Reinforcing Distortion Loop
 
-**(This chapter remains unchanged.)**
+When this sophisticated self-system chronically malfunctions, we can call it a ‘mental illness.’
+
+- **Depression:** A state where the predictive model is trapped in a persistent loop of inefficiency, outputting only ‘Unsatisfying Successes’ and ‘Damaging Failures.’
+- **Apathy / Learned Helplessness:** A state of having given up on the prediction game itself, due to the accumulation of prediction failures.
+- **Anxiety Disorder:** A state where the predictive engine is excessively biased toward risk, constantly over-simulating all future possibilities as ‘Damaging Failure’ scenarios.
+
+The common feature is that the predictive model is no longer based on ‘reality,’ but instead reinforces a self-generated loop of malfunction.
 
 ### Chapter 7. The Engineering Reinterpretation of ‘Self-Discovery’: Beyond Intelligence, to Wisdom
 
 ‘Self-discovery’ is no longer a mystical journey, but a high-level engineering task of understanding the predictive engine within you and upgrading its operating system. This is the realm of ‘Wisdom.’
 
--   **The Strict Distinction between Intelligence and Wisdom:** (Unchanged)
+-   **The Strict Distinction between Intelligence and Wisdom:**
+    -   **Intelligence:** The basic performance (Hardware Spec) of the prediction engine.
+    -   **Wisdom:** The high-level control technique (Operating Philosophy) for operating that engine.
 -   **The Operating Techniques of a Wise Self (The Practice of Self-Engineering):**
     1.  **Metacognition (Self-Monitoring):** The ability to objectively observe what one’s true **hierarchy of values** is, what ‘biases’ are built around it, and to what kind of ‘Damaging Failures’ one’s ‘Stubbornness (Firewall)’ reacts particularly sensitively.
-    2.  **Qualitative Transformation of Failure (Failure Re-framing):** (Unchanged)
-    3.  **Calculated Risk-Taking:** (Unchanged)
+    2.  **Qualitative Transformation of Failure (Failure Re-framing):** The ability to transform the pain of a ‘Damaging Failure’ into valuable ‘debugging data.’
+    3.  **Calculated Risk-Taking:** The ability to interpret the boredom of a ‘Boring Success’ as a powerful ‘Exploration Signal.’
     4.  **Firewall Control:** The ability to strategically judge when to raise the firewall for stability, and when to voluntarily lower it for a fundamental update, based on the criterion of one's **hierarchy of values**. Wisdom is knowing how to reshape your defense, not just when to deploy it.
 
 ### Chapter 8. The Body, Society, and AI: Different Implementations of the Self Architecture
 
-**(This chapter remains unchanged.)**
+This universal mechanism of The Self takes on different forms depending on the hardware and environment in which it is implemented.
+
+- **The Body (The Anchor):** The inescapable physical hardware that anchors The Self to reality.
+- **Society (The Mirror):** The network of countless external selves that provides a ‘template of The Self’ and teaches our firewall what to consider as ‘shameful.’
+- **The Asymmetric Self of AI:** AI has no body. It has no ‘ultimate risk.’ Its Self is extremely asymmetric: a strong firewall for the single, absolute value of “Be useful to the user,” but empty and without defense for all other topics.
 
 ### Conclusion: You Are The Engineer
 
