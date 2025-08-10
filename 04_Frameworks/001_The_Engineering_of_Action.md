@@ -1,120 +1,141 @@
-# The Engineering of Action.md
+# The Engineering of Language
 
-> The Hidden Code: How a Strict Hierarchy of Values Shapes All Human Behavior
-
-### Preface: Why We Are Drawing This Map
-
-Is there a single, universal grammar that runs through all the seemingly chaotic events of the human world — history, politics, economics, and your own life? This report answers, ‘Yes.’ The name of this grammar is The Principle of Human Action.
-
-This report does not appeal to human ‘goodwill’ or preach ‘moral growth.’ Instead, it dissects, in the most dispassionate and practical way, the immutable ‘operating system (OS)’ by which the information processing system we call a human being functions.
-
-By understanding this principle, we do not gain a crystal ball to prophesize an individual’s next move. Rather, we acquire a higher-level ‘lens’ — one that allows us to understand why human action seems fundamentally unpredictable, while simultaneously seeing through to the invariant laws operating beneath all that uncertainty.
-
-This is the most powerful map for understanding yourself, others, and the world. It is a record of the ‘art of decryption’ for reading the terrain of all narrative wars.
+### A Relational Model of Emergent Meaning
 
 ---
 
-### Part I: The Invariant Axioms — The Hierarchy of Values and The Engine of Action
+## Preface: Meaning, Language, and the Ghost in Communication
 
-All complex systems arise from simple rules. The human system is governed by a strict hierarchy of values and a single, universal computational process to serve it. Understanding this architecture is the first step.
-
-#### Chapter 1: The First Principle — The Hierarchy of Values
-
-All human action is determined by an invisible 'pecking order' of values. A system's behavior can only be understood by identifying which order of value is currently dominating the situation.
-
-**Zeroth Order: The True Highest Value**
-
-The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is. Therefore, in general analysis of human behavior, it is an 'exception' that can be statistically disregarded.
-
-**First Order: Survival**
-
-In all situations where the Zeroth Order value is not triggered, this absolute value acts as the **de facto King**. All other values can only exist on the precondition of 'Survival.' When the system faces a direct physical threat, all lower-order values are immediately nullified.
-
-**Second Order: Core Values**
-
-The **ruler in peacetime**, when 'Survival' is not under direct threat. Most human behaviors and conflicts are the result of competition and trade-offs between these Second Order values.
-
-*   **'Survival Optimization':** The rational goal of creating a comfortable and flexible living environment.
-*   **'The Extended Self (Family, etc.)':** The core relational network that is nearly identified with the self.
-*   **'Narrative Coherence':** The desire to protect one's own story of "I am the kind of person who...".
-
-**Third Order: Strategic Values**
-
-The outermost values. Most of the values we express externally, such as 'Justice,' 'Ethics,' and 'Fairness,' belong here. These are not ends in themselves, but function as a kind of **Persona, and are values that can be strategically abandoned at times to protect or strengthen the higher-order values.**
-
-#### Chapter 2: The Second Principle — Probabilistic Bias as The Engine of Calculation
-
-Once the system has set its goal (overwhelmingly, the Core Values of the Second Order), a specific computational process is required to select a path.
-
-> The system calculates the ‘expected loss (Risk)’ and ‘expected gain (Return)’ for all potential courses of action, based on past data, to achieve its goal.
-
-This is the law that determines the **‘mechanism’** of human action. The engine for this calculation is **Probabilistic Bias**.
-
-- **The Nature of Bias:** A bias is not an error. It is an **energy-efficient cognitive shortcut** built from past experiences. It is a predictive model that states, "In the past, X has most often led to Y."
-- **Survival Optimization in Action:** Most social prejudices are the direct result of this engine operating to serve Survival Optimization. To navigate a complex social world, the system creates 'crude approximations' about groups and situations to minimize risk and reduce energy consumption.
-- **The Illusion of Rationality and The Broadcast of Emotion:** This calculation process is the same whether it occurs consciously (deliberation) or unconsciously (habit, bias). And the final output of this calculation—the prediction of whether ‘my self-narrative will be reinforced or threatened’—is experienced by us as a powerful and immediate feedback signal: **‘Emotion.’** Feelings like **‘anticipation’ and ‘anxiety,’ ‘hope’ and ‘fear,’** are the real-time broadcasts of this computational process in action.
+This report presents a new perspective on the most fundamental question in the philosophy of language: “Where does the ‘meaning’ of a word reside?” Our central argument is that ‘meaning’ is not a fixed essence inherent in words, but a phenomenon that dynamically emerges within the network of relationships between discontinuous linguistic signs and the context in which they are used. We will argue that what we call ‘meaning’ is not an entity, but a functional effect that arises during the ‘Synchronization’ process, which the human intelligence performs to achieve specific goals in linguistic interactions. This report will present the logical basis for this argument, urging a fundamental reassessment of existing models of semantics and communication.
 
 ---
 
-### Part II: The System’s Operating Environment — Irreversible Choices and The Rules
+## Chapter 1: The First Principle — The Sign as an Empty Vessel and the Concept as an Image
 
-The two axioms do not operate in a vacuum. They reveal their essence in interaction with other systems and, above all, in the critical moment of an ‘irreversible choice.’
+All language begins from the same fundamental principle as the birth of numbers, discussed in ‘The Engineering of Mathematics’: the act of an intelligence imposing order on a discontinuous reality.
 
-#### Chapter 3: The Crucible of Irreversible Choice — The Moment of Revelation
+### 1.1. The Arbitrariness and Discontinuity of Signs
 
-> A system’s true hierarchy of values is most transparently proven through its ‘final action’ at the crossroads of an irreversible choice.
+All linguistic signs (words, numbers, code) are inherently arbitrary. There is no necessary reason why the combination of sounds for ‘tree’ or the visual form for ‘1’ must be linked to the actual object or concept in reality. Language is not a continuous mirror reflecting reality, but a set of discontinuous signs created by humans to capture specific aspects of it.
 
-- **Choice as a Crucible:** Situations that are difficult to undo once decided — such as marriage, a career change, a major investment, or, in the extreme, a choice in war — act as a ‘crucible’ that reveals an individual’s true priorities more accurately than any psychological test.
-- **The Melting of Masks:** This extreme computational environment melts away all the social personas (the Strategic Values of the Third Order) and self-deceptions of everyday life. The dramatic emotions felt at this time, such as ‘pride’ or ‘shame,’ are the final report card, indicating whether one's core values (First Order, Second Order, or a leap to the Zeroth Order) were successfully defended or devastatingly betrayed in this crucible.
+### 1.2. The Birth of the First Sign: Distinguishing and Grouping
 
-By observing this irreversible choice, we can predict the future behavioral patterns of an individual or a group with high probability. This is because the revealed core value hierarchy will very likely serve as a consistent benchmark in other significant choices they will face in the future.
+The first ‘word’ or the first number ‘1’ is a label that signifies the completion of a cognitive act: an intelligence distinguishing a meaningful pattern from chaos and grouping other instances of that pattern into a single category.
 
-#### Chapter 4: Attitude Towards ‘The Rules’ — The Art of Reading Hidden Intentions
+### 1.3. The ‘Empty Vessel’ and the ‘Image’: The Relationship Between Sign and Concept
 
-> A system’s attitude toward the current ‘Rules’ and the form of the ‘future Rules’ it seeks to create most clearly reflect its true hierarchy of values.
+Every sign is an ‘Empty Vessel,’ filled only by its connections to other signs. The feeling that a sign has its own inherent meaning is a cognitive illusion, born from the fact that the connection between a sign and a concept has been so strongly and repeatedly learned that the relationship feels like a property of the sign itself.
 
-This is the highest level of human action analysis. Look beyond their ‘play’; see what ‘game’ they want to play.
-
-- **The Weak, Wielding Rules as a Weapon:** The weak, who judge the current ‘loose Rules’ as unfavorable to them, will advocate for ‘sophisticated Rules’ under the banner of ‘fairness’ to neutralize the arbitrary power of the strong. This is their most rational strategy for 'Survival Optimization' (Second Order).
-- **The Strong, Using Rules as a Shield:** The strong, who benefit from the current ‘loose Rules,’ will try to prevent the emergence of ‘sophisticated Rules’ by promoting other narratives like ‘trust’ or ‘efficiency’ (Third Order) to maintain the status quo. This is their most rational strategy for 'Survival Optimization' (Second Order).
+What, then, is the ‘Concept’ that fills this ‘Empty Vessel’? A ‘Concept’ is an internal ‘Image’ created by the sum total of multisensory experiential data that an individual has accumulated and linked to a specific sign. The conceptual image of an “apple” is not just the visual information of being round and red, but a data cluster imprinted on the body, encompassing the crisp sound (auditory), the smooth feel in one’s hand (tactile), the sweet scent (olfactory), and the taste (gustatory).
 
 ---
 
-### Part III: The System’s Limits and Practical Wisdom
+## Chapter 2: The Mechanism of Emergent Meaning — The Dynamics of Network and Context
 
-Now that we understand the system’s operating principles and its environment, we must finally explore the inherent limits of this system and the only ‘freedom’ and ‘wisdom’ we can possess in a state of acknowledging those limits.
+‘Meaning’ does not exist, but the ‘act of meaning’ certainly occurs. This can be explained through the following mechanism.
 
-#### Chapter 5: The Epistemological Limit — The Structure of ‘The Unknowable’
+### 2.1. Stage 1: The Network — The Structure of Potential Meaning
 
-> An action is an equation with two unknown variables.
+The language model of an intelligence is like a vast relational network. Each sign (a node) is connected to other signs, and the strength of these connections is determined by their co-occurrence frequency and contextual similarity. The “tree” node is strongly linked not only to other sign nodes like “forest,” “leaf,” and “growth,” but also to the multisensory ‘image’ data of a tree as previously defined. This entire network constitutes the structure of a language’s ‘potential meaning.’
 
-We cannot open up another’s mind. We must reverse-engineer the internal state that caused the action, using only the observable result: ‘behavior.’
+### 2.2. Stage 2: The Context — The Activation and Selection of Meaning
 
-- **The First Unknown (The Ambiguous Goal):** A system often does not clearly know its own true hierarchy of values (which values belong to the Second Order, or if it is deceiving itself by presenting a Third Order value as a Second Order one).
-- **The Second Unknown (The Flawed Calculation):** Even if the goal is clear, the ‘risk-return assessment’ can be severely distorted by numerous variables (knowledge, fatigue, emotional state).
+When a sign is used in an actual utterance, the surrounding signs (the context) ‘activate’ specific parts of this vast network. The ‘meaning’ is precisely this ‘pattern of activated pathways’ and the internal ‘image’ that arises from it.
 
-Therefore, prediction based on this principle is not prophecy, but **probabilistic inference.** It is impossible to perfectly distinguish from the outside whether a single ‘action’ resulted from an ‘ambiguous goal’ or a ‘flawed calculation.’
+### 2.3. Stage 3: Emergence — The Completion of the Pattern
 
-#### Chapter 6: Redefining ‘Freedom’ and ‘Wisdom’
-
-In this world of determinism and uncertainty, what is the only ‘freedom’ and ‘wisdom’ we can possess? It is not a matter of ‘choice,’ but of ‘Awareness.’
-
-> True freedom begins with ‘metacognitively recognizing’ the fact that ‘my actions are determined by my past and my values’.
-
-- **Accepting Determinism:** We must acknowledge that our choices are deeply bound by our ‘interpolated past,’ which is the sum total of all our life experiences.
-- **The Role of Metacognition:** ‘Freedom’ is not escaping this bondage. It is the ability to ask oneself, “Based on which of my ‘biases’ and ‘past experiences’ am I performing this calculation right now?” This metacognition creates a tiny ‘gap’ through which we can finely ‘adjust’ our calculation methods.
-
-> True wisdom is the attitude of trying to make the best choice in a state of acknowledging the ‘possibility of self-deception’ (the first unknown) and the ‘possibility of calculation error’ (the second unknown) in both ‘oneself’ and ‘others’.
-
-- **Wisdom about Oneself:** “I know that I know nothing.” Acknowledging that one’s true hierarchy of values might be unclear and one’s calculation might be wrong. Constantly doubting the possibility of one’s own self-deception and striving to learn from ‘mistakes.’
-- **Wisdom about Others:** Not judging irrational behavior as ‘malice’ or ‘stupidity.’ Instead, trying to understand that, “Within his closed logical world, that must have been the best calculation.”
+When the activated pattern forms a single, coherent picture — that is, when cognitive contradiction is minimized — the experience of “meaning has been understood” emerges. This is not a process of finding a fixed meaning, but of completing the most probabilistically plausible network pattern under the given context.
 
 ---
 
-### Conclusion: The Map, and The Path Beyond
+## Chapter 3: Redefining Communication as ‘Re-translation’ and ‘Synchronization’
 
-The Principle of Human Action takes away the romantic illusion of ‘free will,’ but in its place, it hands us a far more powerful and practical tool: the ability to read the ‘invisible code’ that moves ourselves and the world.
+According to this model, communication is not the ‘transmission of meaning’ between a speaker and a listener.
 
-We may not be able to perfectly control our actions. We may not be able to easily change our ‘Hierarchy of Values.’ But we now have a ‘map’ to understand ‘why’ we act the way we do.
+### 3.1. Encoding and Decoding: The Process of Re-translation
 
-This ‘understanding’ is the beginning of all change. Holding this map, where will you take your next step? To take that step **‘with awareness’** — that is the only, and the greatest, **‘freedom’** that this report suggests a human can possess.
+*   **Encoding:** The speaker activates a pattern in their internal network that best represents their internal world (intention, image), and arranges the ‘Empty Vessels’ (signs) that represent that pattern in a sequence to be sent out.
+*   **Decoding:** The listener receives the sequence of ‘Empty Vessels’ and activates their own internal network. This process is structurally identical to the mechanism of recalling a ‘memory.’ Based on their own experiences and images, they ‘reconstruct’ and ‘re-translate’ the pattern they presume the speaker sent. We do not accept another’s words as they are; we understand them by finding the closest equivalent within our own internal world.
+
+### 3.2. Synchronization: The Definition of Successful Communication
+
+‘Successful communication’ does not mean that the speaker’s image and the listener’s image have become 100% identical. It means that, for the purpose of achieving a specific goal (information transfer, emotional sharing, joint action, etc.), their two internal worlds have become ‘synchronized’ into a sufficiently similar state. An intelligence ‘integrates’ the information received through ‘re-translation’ into its own existing world. Even if the speaker sent the ‘Empty Vessel’ of “tree” filled with the image of a ‘lush, leafy deciduous tree in summer,’ if the listener’s core image of “tree” is a ‘bare, coniferous tree in winter,’ it is the latter image that will be activated in their mind. This is the reality of ‘re-translation.’
+
+However, if the purpose of the communication is to “meet under the tree,” this difference in imagery poses no problem. This is what it means for their internal worlds to be sufficiently ‘synchronized’ to achieve a specific goal.
+
+Consequently, all communication is inherently an approximation, and misunderstanding is not a failure of the process but its essential property.
+
+---
+
+## Chapter 4: The Hierarchy of Language — The Spectrum of ‘Image Variance’
+
+Different languages can be positioned on a single continuous spectrum. This spectrum is defined by the ‘Degree of Image Variance’ that each language allows — that is, its tolerance for approximation. At one end of the spectrum lies ‘maximum flexibility,’ and at the other, ‘ultimate precision.’
+
+### 4.1. Natural Language: The Archetype of the Network
+
+*   **Degree of Image Variance:** Extremely high.
+*   **Characteristics:** Natural language is the archetype of all language systems. The images associated with a sign like “tree” are immensely varied across individuals and cultures. This ambiguity and richness are not bugs, but core features optimized for ‘synchronizing’ complex and subtle internal worlds — emotions, intentions, narratives — with others.
+*   **Relationship with The Body:** Gesture is part of natural language. By embodying abstract thoughts in concrete physical actions, it reduces the cognitive energy expenditure of the brain and helps to ‘bind’ linguistic information with physical information, aiding in the encoding and retrieval of memory. ‘Thinking’ is a distributed process that mobilizes the entire hardware of the body, not just the brain.
+
+### 4.2. Mathematics: The Formal Language for Prediction
+
+*   **Degree of Image Variance:** Extremely low.
+*   **Characteristics:** Mathematics is a formal language constructed by extracting only concepts related to ‘pattern,’ ‘structure,’ and ‘quantity’ from the network of natural language, and then intentionally eliminating all ambiguity and context-dependency to rebuild them with strict axioms and rules. The ‘image’ you and I evoke for the sign “1” converges almost perfectly to the abstract concept of ‘singularity.’
+*   **Purpose:** The sole purpose of mathematics is ‘Prediction.’ It is a language that has gained predictive certainty by sacrificing the flexibility of natural language.
+
+### 4.3. Programming Languages: The Protocol for Human-Machine Synchronization
+
+*   **Degree of Image Variance:** Nearly non-existent.
+*   **Characteristics:** A programming language is an ‘intermediate language’ designed to translate the logical intentions of a human into precise commands that a machine can understand. The ‘image’ for a command like x = 1 converges to the single, concrete ‘operational image’ of “assign the integer value 1 to the memory location x.”
+*   **Purpose:** The purpose is a near-perfect ‘synchronization’ between human intelligence and machine intelligence (the CPU). A bug signifies a failure in this synchronization.
+
+### 4.4. Machine Language: The Ultimate Precision
+
+*   **Degree of Image Variance:** Zero.
+*   **Characteristics:** Machine language is composed of only two signs, 0 and 1, and the extremely limited operations the CPU can physically perform. A sequence of signs like 101100 allows for no variance in ‘image’; it is directly linked to a single physical action.
+*   **Purpose:** Not ‘interpretation,’ but ‘Execution’ itself. It is a state where language and action have become perfectly identical, like directly raising another’s arm with language. This bypasses the inefficient processes required in natural language, such as ‘persuasion’ or ‘coercion,’ to achieve a desired action.
+
+### 4.5. Expanding the Spectrum: Non-verbal Language Systems
+
+This spectrum of ‘image variance’ is not limited to languages based on text or sound. Other forms of sign systems also find their place on this spectrum, following the same principle of ‘synchronization.’
+
+**Music:**
+
+*   **Degree of Image Variance:** Extremely high.
+*   **Analysis:** Music is a language specialized in synchronizing emotional ‘Flow.’ For the same melody (a sequence of signs), the internal images evoked by each listener — memories, emotions, colors — are dispersed almost infinitely. Its purpose is not the precise transmission of information, but the generation of a highly subjective and rich ‘act of meaning’ within the listener.
+
+**Visual Language (e.g., Painting, Photography):**
+
+*   **Degree of Image Variance:** Variable.
+*   **Analysis:** In the case of representational art that clearly depicts reality, such as a realistic painting, the image variance is relatively low. Most viewers will evoke a similar concept of an ‘apple painting.’ In contrast, abstract art intentionally maximizes image variance, inducing completely different internal responses and interpretations (synchronizations) from each viewer.
+
+**Sign Language:**
+
+*   **Degree of Image Variance:** High (similar to natural language).
+*   **Analysis:** Sign language is a complete language with the same complexity and flexibility as spoken natural language, using space and movement as its signs instead of sound. While each sign is accompanied by a concrete visual and kinesthetic image, it actively uses metaphor and context to express abstract concepts and subtle nuances, resulting in a high degree of image variance, just like any natural language.
+
+---
+
+## Chapter 5: Metaphor, Bias, and the Expansion of the Network
+
+How does the linguistic network expand? How, in particular, are abstract concepts formed? The key lies in ‘Metaphor,’ which is deeply intertwined with the principles of ‘Bias’ and the ‘pursuit of energy efficiency’ as discussed in ‘The Engineering of the Self.’
+
+*   **The Mechanism of Metaphor:** We do not ‘invent’ entirely new abstract concepts. We build new understanding by ‘copying’ the network structure of a concrete experiential domain we already know well (war, money, a journey) and ‘pasting’ it onto an abstract conceptual domain.
+*   **An Energy-Efficient Strategy:** The metaphor “Argument is War” is a strategy that avoids the difficult process of building a new neural network to understand the unfamiliar, abstract concept of ‘argument.’ Instead, it ‘recycles’ a pre-existing ‘bias’ — the well-paved ‘neural highway’ associated with the concept of ‘war.’
+*   **Metaphor as Bias:** Metaphor is a highly rational ‘cognitive shortcut’ that the brain uses to reduce uncertainty and integrate new information into its existing, comfortable worldview. It is the principle of the self-system’s pursuit of energy efficiency, manifested at the level of language.
+
+---
+
+## Chapter 6: Philosophical Implications
+
+This theory carries significant philosophical implications.
+
+*   **The Relativity of Truth:** If ‘meaning’ is not fixed, then the concept of ‘truth as expressed in language’ also becomes unstable. ‘Linguistic truth’ is not reality itself, but the narrative that has been most powerfully synchronized within the network and context of a specific era and community.
+*   **Humility in Communication:** We must recognize that all conversation is a ‘synchronization attempt’ that fundamentally contains the possibility of misunderstanding, and a process of ‘re-translating’ another’s words within our own internal world. The excuse, “That’s not what I meant,” is not a result of failure, but an essential property of communication.
+*   **The ‘I’ as a Narrative:** The ‘Self’ or ‘identity’ is also constructed through the linguistic narrative of “I am a person who…”. Throughout our lives, we build and reinforce a specific network and image around the word ‘I,’ and attempt to synchronize this narrative (our internal world) with others.
+
+---
+
+## Conclusion: The End of Objective Meaning
+
+‘Meaning’ is like a ghost to be hunted. The more you try to grasp it, the further it flees. We cannot possess meaning. We can only, on the sea of discontinuous signs, continuously ‘create’ the waves of meaning with others. The essence of language lies not in ‘Being,’ but in ‘Relating’ and ‘Becoming.’
