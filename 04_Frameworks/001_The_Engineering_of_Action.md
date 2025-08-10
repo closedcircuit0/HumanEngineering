@@ -115,6 +115,6 @@ In this world of determinism and uncertainty, what is the only ‘freedom’ and
 
 The Principle of Human Action takes away the romantic illusion of ‘free will,’ but in its place, it hands us a far more powerful and practical tool: the ability to read the ‘invisible code’ that moves ourselves and the world.
 
-We may not be able to perfectly control our actions. We may not be able to easily change our ‘Highest Value.’ But we now have a ‘map’ to understand ‘why’ we act the way we do.
+We may not be able to perfectly control our actions. We may not be able to easily change our ‘Hierarchy of Values.’ But we now have a ‘map’ to understand ‘why’ we act the way we do.
 
 This ‘understanding’ is the beginning of all change. Holding this map, where will you take your next step? To take that step **‘with awareness’** — that is the only, and the greatest, **‘freedom’** that this report suggests a human can possess.
