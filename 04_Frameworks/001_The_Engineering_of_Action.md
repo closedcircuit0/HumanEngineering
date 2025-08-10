@@ -52,7 +52,7 @@ This is the law that determines the **‘mechanism’** of human action. The eng
 
 - **The Nature of Bias:** A bias is not an error. It is an **energy-efficient cognitive shortcut** built from past experiences. It is a predictive model that states, "In the past, X has most often led to Y."
 - **Survival Optimization in Action:** Most social prejudices are the direct result of this engine operating to serve Survival Optimization. To navigate a complex social world, the system creates 'crude approximations' about groups and situations to minimize risk and reduce energy consumption.
-- **The Illusion of Rationality:** This calculation process is the same whether it occurs consciously (deliberation) or unconsciously (habit, bias). The final output is experienced by us as **‘Emotion,’** which signals whether the current path is aligned with our activated goal (usually from the Second Order).
+- **The Illusion of Rationality and The Broadcast of Emotion:** This calculation process is the same whether it occurs consciously (deliberation) or unconsciously (habit, bias). And the final output of this calculation—the prediction of whether ‘my self-narrative will be reinforced or threatened’—is experienced by us as a powerful and immediate feedback signal: **‘Emotion.’** Feelings like **‘anticipation’ and ‘anxiety,’ ‘hope’ and ‘fear,’** are the real-time broadcasts of this computational process in action.
 
 ---
 
@@ -115,6 +115,6 @@ In this world of determinism and uncertainty, what is the only ‘freedom’ and
 
 The Principle of Human Action takes away the romantic illusion of ‘free will,’ but in its place, it hands us a far more powerful and practical tool: the ability to read the ‘invisible code’ that moves ourselves and the world.
 
-We now have a ‘map’ to understand ‘why’ we act the way we do. This ‘understanding’ is the beginning of all change. You are no longer a blind slave to your system. You are your life’s most brilliant ‘analyst’ and ‘strategist,’ one who understands your system’s operating methods better than anyone and, based on that understanding, can make wiser predictions and choices.
+We may not be able to perfectly control our actions. We may not be able to easily change our ‘Highest Value.’ But we now have a ‘map’ to understand ‘why’ we act the way we do.
 
-Holding this map, where will you take your next step? To take that step ‘with awareness’ — that is the only, and the greatest, ‘freedom’ that this report suggests a human can possess.
+This ‘understanding’ is the beginning of all change. Holding this map, where will you take your next step? To take that step **‘with awareness’** — that is the only, and the greatest, **‘freedom’** that this report suggests a human can possess.
