@@ -116,10 +116,3 @@ The ghost of qualia was the most vivid special effect created by this perpetuall
 
 This is not a solution to the problem of qualia. This is the proof that the problem never existed. With this, we conclude our long debugging of the ghost in the machine.
 
----
-
-### Author's Note:
-
-This deconstruction of qualia is a derivative work, derived from the structural theory of 'HumanEngineering.' If you are interested in the related foundational theories, you can find them at:
-
-[https://github.com/closedcircuit0/HumanEngineering](https://github.com/closedcircuit0/HumanEngineering)
