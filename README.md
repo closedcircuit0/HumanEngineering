@@ -56,11 +56,16 @@ This project is a single, interconnected system of thought. To fully understand 
 2.  **[The Engineering of Language](./04_Frameworks/002_The_Engineering_of_Language.md)** - *The protocol for synchronizing internal worlds.*
 3.  **[The Engineering of Mathematics](./04_Frameworks/003_The_Engineering_of_Mathematics.md)** - *The formal grammar for prediction.*
 4.  **[The Engineering of Empathy](./04_Frameworks/004_The_Engineering_of_Empathy.md)** - *The protocol for predictive simulation of other systems.*
-#### **Part 5: Case Studies (Applied Theory)**
+
+#### **Part 5: Philosophical Deconstructions**
+*Applying the theory to dismantle long-standing philosophical illusions and conceptual errors.*
+
+1.  **[The Deconstruction of Qualia](./05_Deconstructions/001_The_Deconstruction_of_Qualia.md)** - *Debugging the ghost in the machine.*
+
+#### **Part 6: Case Studies (Applied Theory)**
 *Demonstrations of how the integrated theory can be applied to analyze complex real-world phenomena.*
 
-1.  **[The Collapse of the Storyteller](./05_Case_Studies/001_The_Collapse_of_the_Storyteller.md)** - *An engineering approach to dementia.*
----
+1.  **[The Collapse of the Storyteller](./06_Case_Studies/001_The_Collapse_of_the_Storyteller.md)** - *An engineering approach to dementia.*---
 
 ## Glossary of Terms
 
