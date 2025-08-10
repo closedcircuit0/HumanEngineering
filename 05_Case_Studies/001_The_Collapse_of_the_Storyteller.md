@@ -1,4 +1,4 @@
-The Collapse of the Storyteller: An Engineering Approach to Dementia
+# The Collapse of the Storyteller: An Engineering Approach to Dementia
 
 > The Brain Doesn’t Lose Memories; It Forgets How to Weave Stories.
 
