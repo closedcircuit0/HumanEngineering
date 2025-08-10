@@ -133,6 +133,6 @@ The spacetime we experience is not an absolute, pre-existing stage.
 
 It is a profoundly engineered 3-dimensional interpretation, forged by our intelligence as it ‘Flickers’ at an extremely high speed between the dynamic world of (x,y,t) and the static world of (x,y,z), in order to make sense of 2-dimensional sensory data under the fundamental condition of the ‘Vanished Present.’
 
-Our 3-dimensional experience is not a ‘3+1’ dimension. It is the dynamic product of a ‘2+2’ dimensional structure: two sensory axes (x,y) upon which are built two interpretative axes—the interpolation axis (t) that reconstructs the past, and the prediction axis (z) that infers the future.
+Our 3-dimensional experience is not a ‘3+1’ dimension. It is the dynamic product of a ‘2+2’ dimensional structure: two sensory axes (x,y) upon which are built two interpretative axes—the prediction axis (z) that maps the static ‘Structures’ of the world, and the interpolation axis (t) that weaves the dynamic ‘Flow’ of the journey between them.
 
 We do not dwell within spacetime; we are the generative process that gives rise to its perception.
