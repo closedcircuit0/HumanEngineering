@@ -2,7 +2,7 @@
 
 ### The Engineering of Spacetime : Your Reality is a 3-Dimensional Interpretation, Forged by Two Operational Modes.
 
-
+---
 
 ## Preface: A Fundamental Question About the Stage We Inhabit
 
