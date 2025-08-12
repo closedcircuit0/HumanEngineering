@@ -1,4 +1,4 @@
-# Rebuttal and Counter-rebuttal to The Deconstruction of Qualia
+# Critique and Response on 'The Deconstruction of Qualia'
 
 > This document is a record of a comment posted on the Medium article, [The Deconstruction of Qualia](../05_Deconstructions/001_The_Deconstruction_of_Qualia.md), and the author's subsequent reply. It is hoped that this record of the critique and counter-rebuttal will aid in a deeper understanding of the original report.
 
