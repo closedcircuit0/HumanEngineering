@@ -47,7 +47,7 @@ As I understand it, your critique correctly identifies the logical core of my 'D
 
 Your five points are deeply considered, and I will respond to each from within my own theoretical framework.
 
-1. On the point that “The Illusionist Frame Is Not the Only Coherent Frame.”
+**1. On the point that “The Illusionist Frame Is Not the Only Coherent Frame.”**
 
 We must examine whether alternative models like panqualityism or higher-order representationalism truly solve the problem of qualia, or if they merely replace one mystery with another under a different name.
 
@@ -55,7 +55,7 @@ For example, panqualityism assumes that quality is inherent in all things in the
 
 In conclusion, I view the world through the principle that 'axioms should be kept to a minimum.' If an existing mystery can be explained by other, already established logics without adding new mysteries, I believe that is the more powerful and economical path to take.
 
-2. On the point that “The ‘Vanished Present’ Is Contested Territory.”
+**2. On the point that “The ‘Vanished Present’ Is Contested Territory.”**
 
 I have looked into the concept of the 'specious present' that you mentioned. Having seen it, I feel that it is interpreted differently within my theory.
 
@@ -63,7 +63,7 @@ I do not see the 'thickness of experience' as proof that the present is physical
 
 Therefore, the 'specious present' does not replace 'The Vanished Present'; rather, I believe it is one piece of evidence for it, showing how intelligence creates a continuous experience under the fundamental constraint of 'The Vanished Present.' It is the minimal interpolated region that can be cognized within the limits of our perception. And it, too, is already 'distinguished and abstracted.'
 
-3. On the point that “The Dilemma Framing Oversimplifies.”
+**3. On the point that “The Dilemma Framing Oversimplifies.”**
 
 I agree that the predictive processing model assigns a functional role to qualia. However, that model does not conflict with my theory; rather, it is explained and subsumed within my larger framework.
 
@@ -71,13 +71,13 @@ In my article [The Engineering of Emotion](../03_Subsystems/001_The_Engineering_
 
 But the predictive processing model stops there. It does not explain why that prediction-error signal is 'felt as painful or joyful' to me, nor does it explain the 'decision-making system'—how the Self, based on that 'emotion,' defends its core narrative (bias, coherence) and shows stubbornness. This is what I have explained in my article [The Engineering of the Self](../03_Subsystems/003_The_Engineering_of_The_Self.md). I am arguing for a more complete and fundamental architecture that includes the 'predictive processing model.'
 
-4. On the point that “The Hard Problem Is Reframed, Not Solved.”
+**4. On the point that “The Hard Problem Is Reframed, Not Solved.”**
 
 The question, "Why do we have the sense of phenomenality at all?" is answered by my entire theoretical system, 'HumanEngineering.'
 
 Why do we have 'feelings'? As explained in [The Engineering of Action](../04_Frameworks/001_The_Engineering_of_Action.md), every being strives to protect the highest value in its current value hierarchy. It must protect its own narrative. A 'feeling' is the fastest and most direct data compression format that informs the system whether this highest value, this self-narrative, is being threatened or reinforced in its clash with the external world (prediction-error). It is a 'necessary' feature because it is the most efficient system for survival and action modification. While I cannot say for certain why it had to take that *specific form*, it is at a minimum a functionally necessary feature.
 
-5. On the part that “Engagement With the Literature Would Strengthen the Case.”
+**5. On the point that “Engagement With the Literature Would Strengthen the Case.”**
 
 This point is correct. And this was my personal intention.
 
@@ -85,10 +85,10 @@ In all of my articles, I do not address direct relationships with 'existing lite
 
 The criteria for my articles intentionally exclude 'engagement with other theories.' My four criteria are:
 
-Coherence with real-world experience (and I am active in reinterpreting existing experimental data, though new experiments require 'money and manpower' and are thus not conducted).
-Internal coherence among the theories.
-Predictive power.
-Effectivity.
+*   **Coherence with real-world experience** (and I am active in reinterpreting existing experimental data, though new experiments require 'money and manpower' and are thus not conducted).
+*   **Internal coherence among the theories.**
+*   **Predictive power.**
+*   **Effectivity.**
 
 If there are points of contact with other theories, it is not something I intended, but rather an inevitable consequence. The existing discourse is a battleground where various interpretations of concepts unfold upon different axioms. Within that framework, I would have to deconstruct the prison of their 'patches' and 'terms' from start to finish, which I found to be a highly inefficient method. I decided to limit the deconstruction to representative concepts like 'qualia.'
 
