@@ -6,6 +6,8 @@
 
 ## 1. Critique by Matthew Chenoweth Wright
 
+In his recent essay, The Deconstruction of Qualia, the author makes a confident case that “qualia” are best understood as an illusion — either as a processed, post-perceptual representation (Face One) or as an inaccessible, pre-conceptual “vanished present” (Face Two). From this, he concludes that the so-called “hard problem” of consciousness is a category error.
+
 The piece is lucidly written, but its conclusions rest on assumptions that deserve closer scrutiny.
 
 1.  **The Illusionist Frame Is Not the Only Coherent Frame**
@@ -22,6 +24,8 @@ The piece is lucidly written, but its conclusions rest on assumptions that deser
 
 5.  **Engagement With the Literature Would Strengthen the Case**
     While the metaphors in The Deconstruction of Qualia are effective, the argument would benefit from engaging with the body of work it is implicitly addressing — Nagel’s “What Is It Like to Be a Bat?”, Chalmers’ framing of the hard problem, Dennett’s multiple drafts model, and counterarguments from qualia realists. Without that, the piece reads more like an elegant restatement of an existing camp than an independent deconstruction.
+
+---
 
 **Conclusion:**
 
@@ -73,7 +77,7 @@ The question, "Why do we have the sense of phenomenality at all?" is answered by
 
 Why do we have 'feelings'? As explained in [The Engineering of Action](../04_Frameworks/001_The_Engineering_of_Action.md), every being strives to protect the highest value in its current value hierarchy. It must protect its own narrative. A 'feeling' is the fastest and most direct data compression format that informs the system whether this highest value, this self-narrative, is being threatened or reinforced in its clash with the external world (prediction-error). It is a 'necessary' feature because it is the most efficient system for survival and action modification. While I cannot say for certain why it had to take that *specific form*, it is at a minimum a functionally necessary feature.
 
-5. On the point that “Engagement With the Literature Would Strengthen the Case.”
+5. On the part that “Engagement With the Literature Would Strengthen the Case.”
 
 This point is correct. And this was my personal intention.
 
