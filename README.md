@@ -56,6 +56,7 @@ This project is a single, interconnected system of thought. To fully understand 
 2.  **[The Engineering of Language](./04_Frameworks/002_The_Engineering_of_Language.md)** - *The protocol for synchronizing internal worlds.*
 3.  **[The Engineering of Mathematics](./04_Frameworks/003_The_Engineering_of_Mathematics.md)** - *The formal grammar for prediction.*
 4.  **[The Engineering of Empathy](./04_Frameworks/004_The_Engineering_of_Empathy.md)** - *The protocol for predictive simulation of other systems.*
+5.  **[The Engineering of Power](./04_Frameworks/005_The_Engineering_of_Power.md)** - *The universal framework for analyzing agency and influence.*
 
 #### **Part 5: Philosophical Deconstructions**
 *Applying the theory to dismantle long-standing philosophical illusions and conceptual errors.*
