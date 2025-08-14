@@ -30,7 +30,9 @@ The only value for which a system is willing to sacrifice its own 'Survival.' Th
 
 **First Order: Survival**
 
-In all situations where the Zeroth Order value is not triggered, this absolute value acts as the **de facto King**. All other values can only exist on the precondition of 'Survival.' When the system faces a direct physical threat, all lower-order values are immediately nullified.
+In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
+
+Therefore, survival is not the ultimate end in itself, but a strategy to protect the chance to meet that potential god. All other values can only exist on this precondition. When the system faces a direct physical threat, all lower-order values are immediately nullified to protect this most fundamental opportunity.
 
 **Second Order: Core Values**
 
