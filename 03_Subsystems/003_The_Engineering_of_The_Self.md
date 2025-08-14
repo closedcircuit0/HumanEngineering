@@ -25,18 +25,18 @@ Behind every complex phenomenon lies a simple principle. All human action, and i
 All human action is determined by an invisible **'pecking order' of values**. A system's behavior can only be understood by identifying which order of value is activated and dominating the situation at any given moment.
 
 -   **Zeroth Order: The True Highest Value**
-    The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
+-   The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
 
 -   **First Order: Survival**
-    In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
+-   In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
     
     Therefore, survival is not the ultimate end in itself, but a strategy to protect the chance to meet that potential god. All other values can only exist on this precondition. When the system faces a direct physical threat, all lower-order values are immediately nullified to protect this most fundamental opportunity.
 
 -   **Second Order: Core Values**
-    The **ruler in peacetime**, when 'Survival' is not under direct threat. Most human behaviors and conflicts are the result of competition and trade-offs between these Second Order values, such as 'Survival Optimization,' 'The Extended Self (Family, etc.),' and 'Narrative Coherence.'
+-   The **ruler in peacetime**, when 'Survival' is not under direct threat. Most human behaviors and conflicts are the result of competition and trade-offs between these Second Order values, such as 'Survival Optimization,' 'The Extended Self (Family, etc.),' and 'Narrative Coherence.'
 
 -   **Third Order: Strategic Values**
-    The outermost values. Most of the values we express externally, such as 'Justice,' 'Ethics,' and 'Fairness,' belong here. These are not ends in themselves, but function as a kind of **Persona**, and are values that can be strategically abandoned at times to protect or strengthen the higher-order values.
+-   The outermost values. Most of the values we express externally, such as 'Justice,' 'Ethics,' and 'Fairness,' belong here. These are not ends in themselves, but function as a kind of **Persona**, and are values that can be strategically abandoned at times to protect or strengthen the higher-order values.
 
 The Self relentlessly seeks to pursue or protect the highest value in this hierarchy that is currently perceived. This is the goal and the benchmark that creates the biases of the Self.
 
