@@ -46,6 +46,7 @@ Emotion is a functional and rational feedback signal that reports the nature and
 This is the fundamental process of **Intelligence**. Due to the **Vanished Present**, the system cannot rest on a stable 'now'. It is forced to ceaselessly oscillate at an extremely high speed between two mutually exclusive modes:
 1.  **Interpolation (t-Mode):** Weaving a coherent *Flow* (narrative) from past data.
 2.  **Prediction (z-Mode):** Inferring a static *Structure* from that data.
+
 This endless process of "stopping to see structure, and moving to feel flow" is the engine that creates all reality and is the prerequisite for all **Power**.
 
 *See main article: [The Engineering of Intelligence](./01_Core_Engine/001_The_Engineering_of_Intelligence.md)*
