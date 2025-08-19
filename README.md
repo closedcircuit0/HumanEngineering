@@ -25,8 +25,8 @@ This project is a single, interconnected system of thought. To fully understand 
 #### **Part 0: The Axioms (First Principles)**
 *The fundamental constraints of reality and perception.*
 
-1.  **[The Vanished Present](./00_Axioms/001_The_Vanished_Present.md)** - *Why the engine must run.*
-2.  **[The Discontinuous World](./00_Axioms/002_The_World_is_Discontinuous.md)** - *The nature of the data the engine processes.*
+1.  **[The Discontinuous World](./00_Axioms/001_The_World_is_Discontinuous.md)** - *The nature of the data the engine processes.*
+2.  **[The Vanished Present](./00_Axioms/002_The_Vanished_Present.md)** - *Why the engine must run.*
 
 #### **Part 1: The Core Engine & Its Applications**
 *The inevitable process born from the axioms, and its explorations.*
