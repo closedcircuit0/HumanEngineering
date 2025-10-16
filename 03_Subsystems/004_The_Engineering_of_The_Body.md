@@ -6,9 +6,11 @@
 
 This report redefines the essence of ‘The Body’ not as a mere vessel, but as the fundamental physical condition — unique, irreplaceable, and self-repairing — upon which the universal process of ‘Intelligence’ unfolds.
 
-‘The Brain’ is not intelligence itself, but the central nexus of this physical being. This architectural foundation inevitably results in a ‘discrepancy in operational objectives’ between the mind’s goal (the expansion of its story) and the body’s ancient law (the preservation of life and energy).
+To be precise, the Body is not the 'inside' of the mind. For the intelligence OS, the body is the most intimate, yet the most demanding 'external environment' it must predict and respond to, alongside society and nature. It is the first and final 'outside' that defines the fate of the self.
 
-This report analyzes phenomena such as pain and pleasure (the body’s honest status reports), habits (paths carved into the flesh), and instincts (irresistible demands) as sophisticated control mechanisms that the body imposes on the mind to manage this conflict and ensure the long-term survival of the entire system.
+‘The Brain’ is not intelligence itself, but the central nexus of this physical being. This architectural foundation—an OS grappling with its most immediate external reality—inevitably results in a fundamental conflict between the mind’s goal (the expansion of its story) and the body’s ancient law (the preservation of life and energy).
+
+This report analyzes phenomena such as pain and pleasure (the body’s honest status reports), habits (paths carved into the flesh), and instincts (irresistible demands) as sophisticated control mechanisms that this 'external environment' imposes on the mind to manage this conflict and ensure the long-term survival of the entire system.
 
 Furthermore, it argues that ‘memory’ is not centralized data stored in the brain, but a creative process in which the brain designs a ‘narrative skeleton’ and calls upon ‘relational materials (anchors)’ distributed throughout the body to vividly reconstruct the experience. The neurological basis of this process is ‘plasticity,’ constantly changing through the creation and rewriting of new anchors.
 
