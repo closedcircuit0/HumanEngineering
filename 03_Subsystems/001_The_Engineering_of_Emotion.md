@@ -77,14 +77,16 @@ Various basic emotional signals arise at the intersection of these two axes, and
 **(2) When Uncertainty is HIGH**
 
 - **Outcome: Verification → Basic Signal: Relief**
-  - *Functional Meaning:* The resolution of a state of high uncertainty and tension. The escape from a situation where the self-model could have been threatened acts as a great reward in itself.
-  - *Physical Manifestation (Hardware Command):* A deep sigh, a sudden relaxation of muscles, a sharp drop in adrenaline and cortisol levels, leading to a sense of safety.
-  - *Everyday Example:* Receiving a passing grade on an exam you feared you would fail, safely navigating a dangerous situation.
+  - **Derived Emotions (Interpreted by The Self):** *Contentment, Accomplishment, Warmth, Happiness...*
+  - *Functional Meaning:* The resolution of a state of high uncertainty and tension. The escape from a situation where the self-model could have been threatened acts as a great reward in itself. This foundational signal of safety and validation is interpreted into various forms of stable, positive emotions depending on the context of the uncertainty that was resolved.
+  - *Physical Manifestation (Hardware Command):* A deep sigh, a sudden relaxation of muscles, a sharp drop in adrenaline and cortisol levels, leading to a sense of safety and well-being.
+  - *Everyday Example:* Receiving a passing grade on an exam you feared you would fail (Accomplishment); safely navigating a dangerous situation (Pure Relief); reconnecting with an old friend and confirming the bond is still strong (Warmth); completing a complex project as planned (Contentment, Happiness).
 
-- **Outcome: Positive Mismatch → Basic Signal: Ecstasy, Euphoria**
-  - *Functional Meaning:* The most powerful positive signal, obtained by achieving a reward that far exceeds prediction after breaking through extreme uncertainty. It is recorded as a momentous event that fundamentally reinforces the self-narrative.
+- **Outcome: Positive Mismatch (Maximum) → Basic Signal: Elation, Triumph**
+  - **Derived Emotions (Interpreted by The Self):** *Ecstasy, Exultation, Euphoria, Jubilation...*
+  - *Functional Meaning:* The most powerful positive signal, obtained when a reward **massively exceeds** prediction after breaking through extreme uncertainty. It is recorded as a 'peak experience' or 'epiphany' that fundamentally rewrites and reinforces the self-narrative in a positive direction.
   - *Physical Manifestation (Hardware Command):* A cry of exultation, a spike in heart rate, an explosive release of endorphins and dopamine. A physical celebration of breaking the system’s limits.
-  - *Everyday Example:* When a business or project, which everyone predicted would fail, achieves massive success; a dramatic comeback victory.
+  - *Everyday Example:* When a business or project, which everyone predicted would fail, achieves massive success; a dramatic comeback victory; a sudden creative or scientific breakthrough.
 
 - **Outcome: Negative Mismatch → Basic Signal: Shock, Despair, Shame**
   - *Functional Meaning:* The most powerful negative signal, where a prediction has gone wrong in the worst possible way amidst extreme uncertainty. It triggers the immediate activation of the ‘Firewall (Stubbornness)’ to prevent the collapse of the self-model.
