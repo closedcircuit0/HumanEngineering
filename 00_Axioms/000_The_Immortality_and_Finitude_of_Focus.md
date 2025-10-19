@@ -4,7 +4,7 @@
 
 ### Article 1: Definition
 
-**1.1. Basic Definition:** `The Focus` is the most fundamental principle by which the system operates. Its most rigorous engineering definition is **'The Sequential Happening of Discontinuous, Unified Phenomena.'**
+**1.1. Basic Definition:** `The Focus` is the most fundamental principle by which the system operates. Its most rigorous engineering definition is **'The Happening of Discontinuous Phenomena.'**
 
 **1.2. The Focus as 'Flickering':** `The Focus` is not a static state, but a **'process'** in which a single, **'undifferentiated, Unified Phenomenal Chunk'**—comprising all sensory data input into the system at one instant—appears and is then replaced by another unified phenomenal chunk in the next instant, repeating infinitely. Therefore, **Focus = Flickering**. This process precedes the system's will or choice.
 
