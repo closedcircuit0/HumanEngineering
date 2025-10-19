@@ -27,6 +27,7 @@ This project is not a collection of essays but a single, integrated operating sy
 #### **Part 0: The Axioms (First Principles)**
 *The fundamental constraints of reality and perception that force the engine to run.*
 
+0.  **[The Focus](./00_Axioms/000_The_Immortality_and_Finitude_of_Focus.md)** - *fundamental principle.*
 1.  **[The Discontinuous World](./00_Axioms/001_The_World_is_Discontinuous.md)** - *The nature of the data the engine processes.*
 2.  **[The Vanished Present](./00_Axioms/002_The_Vanished_Present.md)** - *The fundamental condition that makes the engine's operation inevitable.*
 
