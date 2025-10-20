@@ -63,6 +63,7 @@ This project is not a collection of essays but a single, integrated operating sy
 *Applying the theory to dismantle long-standing conceptual errors.*
 
 1.  **[The Deconstruction of Qualia](./05_Deconstructions/001_The_Deconstruction_of_Qualia.md)** - *Debugging the ghost in the machine.*
+2.  **[The Deconstruction of Modernism](./05_Deconstructions/002_The_Deconstruction_of_Modernism.md)** - *Unmasking Scientism, the most successful religion in history.*
 
 #### **Part 6: Case Studies (Applied Theory)**
 *Demonstrations of how the integrated theory can be applied to analyze complex phenomena.*
