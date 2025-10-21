@@ -48,7 +48,7 @@ This project is not a collection of essays but a single, integrated operating sy
 2.  **[The Engineering of Memory](./03_Subsystems/002_The_Engineering_of_Memory.md)** - *The Database & Narrative Reconstruction Engine.*
 3.  **[The Engineering of The Self](./03_Subsystems/003_The_Engineering_of_The_Self.md)** - *The Master Application & Its Firewall, composed of Bias and Stubbornness.*
 4.  **[The Engineering of The Body](./03_Subsystems/004_The_Engineering_of_The_Body.md)** - *The Legacy Hardware & Its Unchangeable Laws.*
-5.  **[The Engineering of The Body](./03_Subsystems/005_The_Engineering_of_Desire.md)** - *whatever.*
+5.  **[The Engineering of Desire](./03_Subsystems/005_The_Engineering_of_Desire.md)** - *whatever.*
 
 #### **Part 4: The Frameworks (External Interfaces)**
 *The protocols the system uses to interact with and model the external world.*
