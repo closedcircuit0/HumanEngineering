@@ -6,7 +6,7 @@
 
 **1.1. Basic Definition:** The Focus is the most fundamental principle by which the system operates. Its most rigorous engineering definition is **'The Happening of Discontinuous Phenomena.'**
 
-**1.2. The Focus as 'Flickering':** `The Focus` is not a static state, but a **'process'** in which a single, **'undifferentiated, Unified Phenomenal Chunk'**—comprising all sensory data input into the system at one instant—appears and is then replaced by another unified phenomenal chunk in the next instant, repeating infinitely. Therefore, **Focus = Flickering**. This process precedes the system's will or choice.
+**1.2. The Focus as 'Flickering':** The Focus is not a static state, but a **'process'** in which a single, **'undifferentiated, Unified Phenomenal Chunk'**—comprising all sensory data input into the system at one instant—appears and is then replaced by another unified phenomenal chunk in the next instant, repeating infinitely. Therefore, **Focus = Flickering**. This process precedes the system's will or choice.
 
 **1.3. Example: The Process of Unification, Change, and Distinction**
 *   **Instant t¹ (Focus):** A single, nameless **'Unified Phenomenal Chunk A'**—['monitor-visual-data' + 'sound-auditory-data']—happens. At this stage, 'monitor' and 'sound' are not separate. This is a single phenomenon itself.
@@ -39,7 +39,7 @@ From the perspective of `The Self` (a higher-level system), this 'Flickering' ma
 
 **4.2. Focus vs Attention:**
 *   **Focus:** The unified phenomenal chunk as the unanalyzed **'Raw Material'**.
-*   **Attention:** The act of **'Awareness'** by `The Self`, which occurs *after* `Intelligence` has analyzed that raw material and distinguished it into 'objects,' wherein `The Self` finally flags a specific object as "This is important now." `Attention` does not control `The Focus`; it is the final act of meaning-making on the 'processed results' of `The Focus`.
+*   **Attention:** The act of **'Awareness'** by The Self, which occurs *after* Intelligence has analyzed that raw material and distinguished it into 'objects,' wherein The Self finally flags a specific object as "This is important now." `Attention` does not control The Focus; it is the final act of meaning-making on the 'processed results' of `The Focus`.
 
 ### Article 5: The Ontological Order
 
@@ -50,5 +50,5 @@ All core components of the HE framework are derived in the following strict orde
 > → **Being/Object (Stable patterns captured by Intelligence)**
 > → **Consciousness/Attention/The Self (Final awareness and narrative-making)**
 
-`The Self` is the final product of this causal chain and cannot directly experience the primordial, unified nature of its origin, `The Focus`. The Self only ever sees the world that `Intelligence` has already separated and interpreted.
+The Self is the final product of this causal chain and cannot directly experience the primordial, unified nature of its origin, The Focus. The Self only ever sees the world that Intelligence has already separated and interpreted.
 
