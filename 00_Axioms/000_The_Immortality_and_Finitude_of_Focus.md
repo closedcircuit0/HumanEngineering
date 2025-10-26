@@ -26,10 +26,10 @@ From the perspective of The Self (a higher-level system), this 'Flickering' mani
 
 ### Article 3: Relation to Prediction-Error
 
-'Prediction-Error' is the core phenomenon that necessarily arises as `Intelligence` processes the flow of The Focus.
-*   **Prediction:** `Intelligence` learns the sequential patterns of past 'unified phenomenal chunks' to predict which 'unified phenomenal chunk' will appear in the next instant.
+'Prediction-Error' is the core phenomenon that necessarily arises as Intelligence processes the flow of The Focus.
+*   **Prediction:** Intelligence learns the sequential patterns of past 'unified phenomenal chunks' to predict which 'unified phenomenal chunk' will appear in the next instant.
 *   **Error Generation:** When the 'unified phenomenal chunk' that actually appears in the next instant differs from the prediction, a **'Prediction-Error'** is generated.
-*   **Learning:** `Intelligence` uses precisely this 'Error' data to correct its predictive model and to learn how to **'distinguish'** the patterns ('monitor,' 'sound,' etc.) within the 'unified phenomenal chunks' with greater precision. The concepts of 'Objects' and 'Beings' are born as by-products of this learning process, which aims to minimize prediction-error.
+*   **Learning:** Intelligence uses precisely this 'Error' data to correct its predictive model and to learn how to **'distinguish'** the patterns ('monitor,' 'sound,' etc.) within the 'unified phenomenal chunks' with greater precision. The concepts of 'Objects' and 'Beings' are born as by-products of this learning process, which aims to minimize prediction-error.
 
 ### Article 4: Distinctions from Other Concepts
 
