@@ -20,10 +20,18 @@ We will descend into the deepest engine room of this system and confront the abs
 
 Behind every complex phenomenon lies a simple principle. All human action, and its aggregate, The Self, is also built upon three solid pillars.
 
-**The First Pillar (The Goal — The ‘Why’): The Hierarchy of Values**
+-   **Zeroth Order: The True Highest Value**
+   
+    The only value for which a system is willing to sacrifice its own 'Survival.' This is so extremely rare that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
 
-All human action is determined by an invisible **'pecking order' of values**. A system's behavior can only be understood by identifying which order of value is activated and dominating the situation at any given moment.
+    *This phenomenon, which appears to override the absolute imperative of Survival, is not a mystical leap but an extreme outcome of the system's risk/return calculation. The 'Zeroth Order' is not a fixed, pre-existing value. It is a temporary state that emerges when the system’s calculation, for one of two reasons, concludes that abandoning Survival is the optimal path.*
 
+    ***Path 1: The Transcendent Calculation.*** *This occurs when the system’s calculation module is functioning, but the input values are based on a non-rational **‘belief’** that assigns a near-infinite return to a 2nd or 3rd order value (e.g., the immortality of one's narrative, the survival of an extended self). In this specific situation, as a result of the calculation, a lower-order value temporarily takes higher priority than the 1st order value of physical survival.*
+
+    ***Path 2: The Broken Calculation.*** *This occurs when the system’s calculation module itself is severely malfunctioning due to extreme stress, trauma, or pathology. The system fails to correctly assess risks and returns, erroneously calculating that self-destruction is a less negative or even positive outcome compared to enduring the current state. This is not a choice for a higher value, but a fatal system error.*
+
+    *Whether perceived as sublime or tragic, the Zeroth Order phenomenon reveals the ultimate limit of the system: a point where the core imperative of Survival can be superseded, either by the immense power of Belief or by the catastrophic failure of its own internal logic.*
+    
 -   **Zeroth Order: The True Highest Value**
    
     The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
