@@ -24,7 +24,7 @@ Behind every complex phenomenon lies a simple principle. All human action, and i
    
     The only value for which a system is willing to sacrifice its own 'Survival.' This is so extremely rare that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
 
-    *This phenomenon, which appears to override the absolute imperative of Survival, is not a mystical leap but an extreme outcome of the system's risk/return calculation. The 'Zeroth Order' is not a fixed, pre-existing value. It is a temporary state that emerges when the system’s calculation, for one of two reasons, concludes that abandoning Survival is the optimal path.*
+    *This phenomenon, which appears to override the absolute imperative of Survival, is an extreme outcome of the system's risk/return calculation. The 'Zeroth Order' is not a fixed, pre-existing value. It is a temporary state that emerges when the system’s calculation, for one of two reasons, concludes that abandoning Survival is the optimal path.*
 
     **Path 1: The Transcendent Calculation.** This occurs when the system’s calculation module is functioning, but the input values are based on a non-rational **‘belief’** that assigns a near-infinite return to a 2nd or 3rd order value (e.g., the immortality of one's narrative, the survival of an extended self). In this specific situation, as a result of the calculation, a lower-order value temporarily takes higher priority than the 1st order value of physical survival.
 
