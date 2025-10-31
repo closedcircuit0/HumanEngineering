@@ -24,27 +24,31 @@ All complex systems arise from simple rules. The human system is governed by a s
 
 All human action is determined by an invisible 'pecking order' of values. A system's behavior can only be understood by identifying which order of value is currently dominating the situation.
 
-**Zeroth Order: The True Highest Value**
+-   **Zeroth Order: The True Highest Value**
 
-The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is. Therefore, in general analysis of human behavior, it is an 'exception' that can be statistically disregarded.
+    The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is. 
 
-**First Order: Survival**
+    *From an engineering perspective, this is not a fixed value but an extreme outcome of the system's risk/return calculation. It emerges via one of two paths: a **Transcendent Calculation** driven by a non-rational belief (e.g., sacrificing for an extended self or an immortal narrative), or a **Broken Calculation** resulting from a catastrophic system error (e.g., severe trauma or pathology). In either case, the calculation temporarily concludes that abandoning the 1st Order value of Survival is the optimal path.*
 
-In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
+    Therefore, in the general analysis of day-to-day human behavior, this phenomenon is an 'exception' that can be statistically disregarded. The crucial point is how this rare exception shapes the entire value hierarchy below it.
 
-Therefore, survival is not the ultimate end in itself, but a strategy to protect the chance to meet that potential god. All other values can only exist on this precondition. When the system faces a direct physical threat, all lower-order values are immediately nullified to protect this most fundamental opportunity.
+-   **First Order: Survival**
 
-**Second Order: Core Values**
+    In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
 
-The **ruler in peacetime**, when 'Survival' is not under direct threat. Most human behaviors and conflicts are the result of competition and trade-offs between these Second Order values.
+    Therefore, survival is not the ultimate end in itself, but a strategy to protect the chance to meet that potential god. All other values can only exist on this precondition. When the system faces a direct physical threat, all lower-order values are immediately nullified to protect this most fundamental opportunity.
 
-*   **'Survival Optimization':** The rational goal of creating a comfortable and flexible living environment.
-*   **'The Extended Self (Family, etc.)':** The core relational network that is nearly identified with the self.
-*   **'Narrative Coherence':** The desire to protect one's own story of "I am the kind of person who...".
+-   **Second Order: Core Values**
 
-**Third Order: Strategic Values**
+    The **ruler in peacetime**, when 'Survival' is not under direct threat. Most human behaviors and conflicts are the result of competition and trade-offs between these Second Order values.
 
-The outermost values. Most of the values we express externally, such as 'Justice,' 'Ethics,' and 'Fairness,' belong here. These are not ends in themselves, but function as a kind of **Persona, and are values that can be strategically abandoned at times to protect or strengthen the higher-order values.**
+    *   **'Survival Optimization':** The rational goal of creating a comfortable and flexible living environment.
+    *   **'The Extended Self (Family, etc.)':** The core relational network that is nearly identified with the self.
+    *   **'Narrative Coherence':** The desire to protect one's own story of "I am the kind of person who...".
+
+-   **Third Order: Strategic Values**
+
+    The outermost values. Most of the values we express externally, such as 'Justice,' 'Ethics,' and 'Fairness,' belong here. These are not ends in themselves, but function as a kind of **Persona, and are values that can be strategically abandoned at times to protect or strengthen the higher-order values.**
 
 #### Chapter 2: The Second Principle — Probabilistic Bias as The Engine of Calculation
 
