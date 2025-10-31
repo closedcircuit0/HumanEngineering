@@ -32,10 +32,6 @@ Behind every complex phenomenon lies a simple principle. All human action, and i
 
     *Whether perceived as sublime or tragic, the Zeroth Order phenomenon reveals the ultimate limit of the system: a point where the core imperative of Survival can be superseded, either by the immense power of Belief or by the catastrophic failure of its own internal logic.*
     
--   **Zeroth Order: The True Highest Value**
-   
-    The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
-
 -   **First Order: Survival**
 
     In all situations where the Zeroth Order value is not triggered, this absolute value acts as the de facto King. Why is survival so absolute? It is because survival is the essential precondition for even having the opportunity to confront, verify, and realize the unknown 0th Order Value — a potential highest value that the system may not even be consciously aware of.
