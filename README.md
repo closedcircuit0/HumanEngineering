@@ -65,6 +65,7 @@ This project is not a collection of essays but a single, integrated operating sy
 
 1.  **[The Deconstruction of Qualia](./05_Deconstructions/001_The_Deconstruction_of_Qualia.md)** - *Debugging the ghost in the machine.*
 2.  **[The Deconstruction of Modernism](./05_Deconstructions/002_The_Deconstruction_of_Modernism.md)** - *Unmasking Scientism, the most successful religion in history.*
+3.  **[The Deconstruction of Solipsism](./05_Deconstructions/003_The_Deconstruction_of_Solipsism.md)** - *From a Neglected Bomb to a Tool for Freedom.*
 
 #### **Part 6: Case Studies (Applied Theory)**
 *Demonstrations of how the integrated theory can be applied to analyze complex phenomena.*
