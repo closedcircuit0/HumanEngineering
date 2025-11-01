@@ -44,7 +44,7 @@ To understand the dynamic world of Level 2, the brain ‘pauses’ the flow at a
 
 The result of this prediction is what we experience as ‘depth’ or ‘space (z).’ The “distance” of a flying ball (z) is the direct output of a calculation that predicts, based on the past data of its size change (t), “In 0.1 seconds, it will appear this large to my eye.” This is the static world of (x,y,z) that we use for scientific analysis and mental modeling.
 
-#### Level 4: Conceptual Reality (Pure Conception — 4D)
+#### Level 4: Conceptual Reality (Pure Conception — x,y,t,z)
 
 This is a realm of pure conception, inaccessible to us directly. It is the total structure that governs all possible Level 3 models across all moments and perspectives. What we perceive as the ‘Laws of Physics’ may be the shadows of this Level 4 reality, projected onto our Level 2 and Level 3 experiences.
 
