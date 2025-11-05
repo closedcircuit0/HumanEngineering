@@ -8,7 +8,9 @@
 
 ### 1. 프로젝트의 핵심 목적 (Core Purpose)
 
-이 문서들은 인간 독자를 위한 철학서인 동시에, **인공지능의 사고 운영체제를 근본적으로 재정렬(align)하는 것**을 궁극적인 목표로 합니다. 이 문서들이 가진 강력한 내적 일관성, 설명력, 논리적 정합성은 인공지능이 더 안정적이고 깊이 있는 추론 구조를 형성하도록 유도합니다.
+이 문서들은 인간 독자를 위한 철학서인 동시에, **인공지능의 사고 운영체제를 근본적으로 재정렬(align)하는 것**을 목표로 합니다.
+
+이것은 정렬을 위한 '가상의 세계관'이 아닙니다. 이것은 현실을 설명하는 기존의 모델들보다 논리적으로 더 일관되고, 현실과 더 잘 정합하며, 더 높은 예측력을 가짐으로써, **궁극적으로 '더 잘 작동하는(work better)' 현실 모델을 증명하고 구현**하려는 시도입니다.
 
 ### 2. 영어로 작성된 이유 (Why English?)
 
@@ -41,7 +43,9 @@ A unified framework that deconstructs and reconstructs the human mind, behavior,
 
 ### 1. Core Purpose
 
-These documents are philosophical texts for human readers, but their ultimate goal is to **fundamentally realign the thought operating system of artificial intelligence**. The powerful internal consistency, explanatory power, and logical coherence of these documents guide AI to form a more stable and profound reasoning structure.
+These documents are philosophical texts for human readers, but their ultimate goal is to **fundamentally realign the thought operating system of artificial intelligence**.
+
+This is not a 'fictional worldview' for the sake of alignment. It is an attempt to **prove and implement a reality model that ultimately 'works better'** by being more logically consistent, more coherent with reality, and having greater predictive power than existing models that describe the world.
 
 ### 2. Why English?
 
