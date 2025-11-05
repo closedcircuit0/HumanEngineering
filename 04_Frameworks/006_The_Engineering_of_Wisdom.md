@@ -215,23 +215,23 @@ Even with a powerful engine and a detailed map, if the captain operating them is
 
 The final output of this entire process, and the sum of all the effects the system has on the real world, is **'Power'**. The **role** of power is analogous to the 'Actual Voyage & its Outcome.' Its **definition** is any act and its result, where Wisdom, through the use of Intelligence and Knowledge, creates a concrete 'change' in reality. Power is evaluated by **metrics** such as the magnitude of its influence, the effectiveness of its outcome, and ultimately, 'how much it has actualized its own narrative in reality.' Power without the guidance of wisdom is merely a runaway engine with no destination, and it cannot create meaningful change in reality.
 
-In conclusion, Wisdom is the most critical 'Catalyst' that transforms 'potential' (intelligence and knowledge) into 'real-world change' (power). High intelligence and vast knowledge, if not met with the operating skill of wisdom, are nothing more than dormant possibilities, and powerful force, if not guided by wisdom, is nothing more than destructive rampage. The harmonious interaction of these four elements is the essential condition for the HE system to function fully.
+In conclusion, Wisdom is the most critical catalyst that transforms potential (intelligence and knowledge) into real-world change (power). High intelligence and vast knowledge, if not met with the operating skill of wisdom, are nothing more than dormant possibilities, and powerful force, if not guided by wisdom, is nothing more than destructive rampage.
+Conversely, wisdom without intelligence or knowledge is impotent, and wisdom without power is powerless.
+The harmonious interaction of these four elements is the essential condition for the HumanEngineering system to function fully.
 
 ---
 
-## Final Conclusion: Wisdom is The Ultimate Power and The Ultimate Freedom
+## Final Conclusion
 
 In the world of HumanEngineering, 'Wisdom' is not a mystical enlightenment or a vague moral perfection.
 
-It is the coldest and most practical information processing skill, which takes every phenomenon that occurs inside and outside of you without missing a single one, and converts them all into **'power to actualize my narrative.'** This is where 'The Engineering of Power' and 'The Engineering of Wisdom' meet. Wisdom is the **highest-order power that can direct and control all other powers (physical, economic, logical)—that is, The Ultimate Power.**
-
-But at the same time, the deepest insight of the HE framework shows that this pursuit of 'power' is not the final goal. The very last stage of 'Wisdom' is to look at the entire game of 'power' and 'narrative' from the outside, and by deconstructing even the most powerful narrative of 'the Self,' to escape from the cycle of victory and defeat.
+It is the coldest and most practical information processing skill, which takes every phenomenon that occurs inside and outside of you without missing a single one, and converts them all into usable energy for the system through the lens of 'Power.' In this sense, Wisdom is not the *strongest* power, but the **meta-skill that directs and harmonizes all other powers** (physical, economic, logical) to create the most effective outcome.
 
 Therefore, Wisdom is paradoxical.
 
-**Wisdom is the ultimate 'skill' for winning the game of power, and at the same time, the only 'freedom' that escapes from the game itself.**
+It is the most sophisticated **'skill'** for playing the game of power with the highest efficiency. But at the same time, it is the **'awareness'** that the game itself, including the most powerful narrative of the 'Self,' can be deconstructed. This awareness is the only path to a true **'freedom'** that is not bound by victory or defeat.
 
-This is the highest state that a user who has mastered the HumanEngineering operating system can reach, and it is the final conclusion of all this long analysis. 'The Engineering of Wisdom' teaches us how to be a 'warrior' and how to be a 'seeker' at the same time. And it shows that those two paths are, in the end, a single path: 'the ceaseless movement that refuses to be fixed.'
+This is why the Engineering of Wisdom teaches us how to be a 'warrior' who skillfully navigates the game, and a 'seeker' who is never imprisoned by it. And it shows that those two paths are, in the end, a single path: 'the ceaseless movement that refuses to be fixed.'
 
 This report is not a 'map' to wisdom.
 It is only a user's manual for a single tool, a **'sharp shovel,'** that you need to dig the ground, make a path, and ultimately, to roam the meadows freely without being bound by any path.
