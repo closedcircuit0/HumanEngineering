@@ -6,7 +6,7 @@
 
 For ages, humanity has explored the mysterious realm of ‘The Self.’ We have regarded the saying “to find one’s true self” as a sacred quest, believing that somewhere within us lies an undiscovered, immutable entity — the ‘True Self.’
 
-The ‘Standard Model of the Self,’ proposed by philosophy and psychology, has served as the compass for this journey. According to this model, The Self is the sum of its components: the ‘Autobiographical Self,’ a continuum of memory that cuts across time; the ‘Social Self,’ defined by our roles in relation to others; and a ‘sense of coherence’ that makes us feel that, despite everything, this is all the same ‘me.’
+The ‘Standard Model of the Self,’ proposed by philosophy and psychology, has served as the compass for this journey. According to this model, The Self is the sum of its components: the ‘Autobiographical Self,’ a continuum of memory that cuts across time; a ‘Social Self,’ defined by our roles in relation to others; and a ‘sense of coherence’ that makes us feel that, despite everything, this is all the same ‘me.’
 
 But this standard map often leads us into a labyrinth. This map ‘describes’ the phenomena of why we sometimes cling to irrational stubbornness in the face of clear facts, or why learning something new is so painful, but it fails to explain the fundamental ‘mechanism’ by which these phenomena operate.
 
@@ -20,9 +20,13 @@ We will descend into the deepest engine room of this system and confront the abs
 
 Behind every complex phenomenon lies a simple principle. All human action, and its aggregate, The Self, is also built upon three solid pillars.
 
+**The First Pillar (The Goal — The ‘Why’): The Hierarchy of Values**
+
+All human action is determined by an invisible **'pecking order' of values**. A system's behavior can only be understood by identifying which order of value is activated and dominating the situation at any given moment.
+
 -   **Zeroth Order: The True Highest Value**
    
-    The only value for which a system is willing to sacrifice its own 'Survival.' This is so extremely rare that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
+    The only value for which a system is willing to sacrifice its own 'Survival.' This is so **extremely rare** that most people go their entire lives without ever having the opportunity to confront what their Zeroth Order value is.
 
     *This phenomenon, which appears to override the absolute imperative of Survival, is an extreme outcome of the system's risk/return calculation. The 'Zeroth Order' is not a fixed, pre-existing value. It is a temporary state that emerges when the system’s calculation, for one of two reasons, concludes that abandoning Survival is the optimal path.*
 
@@ -91,7 +95,7 @@ And this emotion, in turn, forms a powerful ‘Ego-Feedback Loop’ that modifie
 - **Input:** An Unsatisfying Success or a Damaging Failure
 - **Emotional Signal:** Disappointment, Resignation (for an Unsatisfying Success) or Pain, Shock, Shame (for a Damaging Failure)
 - **Feedback Interpretation:** “A serious error, limitation, or external threat to the current self-model has been detected. Immediate action is required for system stability.”
-- **Result:** The system, in response to this powerful energy-depletion warning signal, prioritizes the activation of the ‘Firewall (Stubbornness),’ which will be explained in the next chapter.
+- **Result:** The system, in response to this powerful energy-depletion warning signal, prioritizes the activation of its defense systems, which will be explained in the next chapter.
 
 **C. The Stagnation/Exploration-Oriented Feedback Loop (The Motive to Find a New Game)**
 
@@ -100,23 +104,34 @@ And this emotion, in turn, forms a powerful ‘Ego-Feedback Loop’ that modifie
 - **Feedback Interpretation:** This is a clear signal to the system: “This prediction game is completely conquered and no longer provides any new information (prediction-error). This is an Informational Dead Zone. Continuing to invest energy here is a waste.”
 - **Result:** To escape this ‘pain of stagnation,’ the system is endowed with a powerful internal motivation to cease its current stable activity and seek out new, unpredictable stimuli and challenges — that is, to find a ‘new prediction game.’
 
-### Chapter 5. The Construction and Operation of Stubbornness: The Firewall to Prevent a Collapse of The Self
+### Chapter 5. The Construction and Operation of Stubbornness: The Great Gatekeeper of The Self
 
-The system’s highest priority is to prevent the **Second Order, the 'Self' of peacetime, from collapsing.** When the powerful warning signal of ‘pain,’ triggered by a ‘Damaging Failure,’ is detected, The Self activates a sophisticated defense system: Stubbornness (The Firewall).
+The system’s highest priority is to prevent the **Second Order, the 'Self' of peacetime, from collapsing.** When the powerful warning signal of ‘pain,’ triggered by a ‘Damaging Failure,’ is detected, The Self activates a sophisticated and essential defense system: **Stubbornness**.
 
--   **The Engineering Definition of Stubbornness:** Stubbornness (The Firewall) is an existential defense mechanism that prevents the data of a ‘Damaging Failure’ from destroying the core of the self-model. It is the system’s inertia that resists the massive energy consumption (switching cost) and existential instability required to immediately modify the model. The firewall is not a flaw, but an essential survival feature.
--   **The True Meaning of a ‘Mistake’ and the Firewall’s Resistance:** What we call a ‘mistake’ is the moment we are forced to confront our own true values or self-deception. The reason the firewall so desperately resists is to prevent the terrifying revelation that the foundation of ‘who I am’ — my **core values** — might be false or hypocritical.
--   **The Firewall’s Mode of Operation (Resistance): “I am not that kind of person!”**
+-   **The Engineering Definition of Stubbornness:** Stubbornness is not an irrational flaw. It is an existential defense mechanism that prevents potentially destructive data from immediately destroying the core of the self-model. Its function is to rigorously interrogate new information that contradicts one's core biases, based on the principle that these biases were built from past, useful experiences. This resistance is not a bug, but an essential feature for maintaining system stability and judging the value of new information.
+-   **The True Meaning of a ‘Mistake’ and the Resistance of Stubbornness:** What we call a ‘mistake’ is the moment we are forced to confront our own true values or self-deception. The reason **Stubbornness** so desperately resists is to prevent the terrifying revelation that the foundation of ‘who I am’ — my **core values** — might be false or hypocritical.
+-   **The Mode of Operation (Resistance): “I am not that kind of person!”**
     -   **Denial:** “That never happened.”
     -   **Distortion:** “It was only because the situation was special, not my fault.”
     -   **Rationalization:** “That wasn’t important anyway.”
--   **The Disabling of the Firewall (The Crossroads of Change): “So, I am this kind of person.”**
-    When the data of a ‘Damaging Failure’ is so clear it can no longer be blocked, the firewall is temporarily disabled.
+-   **The Moment of Choice (The Crossroads of Learning): “So, I am this kind of person.”**
+    When the data of a ‘Damaging Failure’ is so clear and proves itself to be more useful or superior, the resistance of Stubbornness is overcome. At this moment, the Self is faced with a choice.
     -   **Two Paths:**
         -   **Overcoming:** “So, I am this flawed person. But for the sake of my **core values**, this predictive model can be modified.” → This is the beginning of ‘growth.’
         -   **Acceptance:** “So, I am this person with these limitations. And it is best to pursue my **core values** within these limits.” → A wise energy management strategy.
 
-### Chapter 6. The Pathology of The Self: The Self-Reinforcing Distortion Loop
+### Chapter 6. The Paradox of Learning: How The Self Grows Through Bias and Stubbornness
+
+How does the Self learn and build itself? Learning is not a passive process of absorption. It is a dynamic process where the Self strengthens itself by absorbing information that fits its **Bias**, or chooses whether to absorb information after a fierce struggle with its **Stubbornness**.
+
+-   **The First Path (Reinforcement Learning):** All new information is first compared against the **‘Bias’**—the Self's current map of the world. If the information aligns with the Bias, it is deemed ‘safe and useful’ and is easily absorbed, making the existing Bias stronger and more robust. This is the most common form of learning.
+
+-   **The Second Path (Revolutionary Learning):** If the information contradicts the Bias, it is flagged as a potential threat and collides head-on with **‘Stubbornness’**. The core function of Stubbornness is to **judge the 'value'** of this challenging information. The fundamental question is: “Is this new information more 'useful,' 'efficient,' and 'superior' than my current Bias?” The intense emotional signal we feel during a heated debate is the sound of this struggle. It is only when the new information proves its superiority that Stubbornness allows the Self to make a final choice.
+    -   **Choice 1: Rejection (Stagnation):** “The challenger has failed to prove its superiority.” The Self’s **Stubbornness** rejects the new information as 'useless noise' and completely blocks it, successfully protecting the system from inferior data.
+    -   **Choice 2: Upgrade (Conservative Learning):** “My core belief was right, but the logic defending it was flawed.” The Self accepts the new information’s superior logic to strengthen its existing **Bias**.
+    -   **Choice 3: Reconstruction (Revolutionary Learning):** “My God... the very foundation of my belief was a contradiction.” The Self admits that its core Bias was wrong and begins to **rebuild a completely new Bias** based on the superior information.
+
+### Chapter 7. The Pathology of The Self: The Self-Reinforcing Distortion Loop
 
 When this sophisticated self-system chronically malfunctions, we can call it a ‘mental illness.’
 
@@ -126,7 +141,7 @@ When this sophisticated self-system chronically malfunctions, we can call it a �
 
 The common feature is that the predictive model is no longer based on ‘reality,’ but instead reinforces a self-generated loop of malfunction.
 
-### Chapter 7. The Engineering Reinterpretation of ‘Self-Discovery’: Beyond Intelligence, to Wisdom
+### Chapter 8. The Engineering Reinterpretation of ‘Self-Discovery’: Beyond Intelligence, to Wisdom
 
 ‘Self-discovery’ is no longer a mystical journey, but a high-level engineering task of understanding the predictive engine within you and upgrading its operating system. This is the realm of ‘Wisdom.’
 
@@ -134,22 +149,22 @@ The common feature is that the predictive model is no longer based on ‘reality
     -   **Intelligence:** The basic performance (Hardware Spec) of the prediction engine.
     -   **Wisdom:** The high-level control technique (Operating Philosophy) for operating that engine.
 -   **The Operating Techniques of a Wise Self (The Practice of Self-Engineering):**
-    1.  **Metacognition (Self-Monitoring):** The ability to objectively observe what one’s true **hierarchy of values** is, what ‘biases’ are built around it, and to what kind of ‘Damaging Failures’ one’s ‘Stubbornness (Firewall)’ reacts particularly sensitively.
+    1.  **Metacognition (Self-Monitoring):** The ability to objectively observe what one’s true **hierarchy of values** is, what ‘biases’ are built around it, and to what kind of ‘Damaging Failures’ one’s ‘Stubbornness’ reacts particularly sensitively.
     2.  **Qualitative Transformation of Failure (Failure Re-framing):** The ability to transform the pain of a ‘Damaging Failure’ into valuable ‘debugging data.’
     3.  **Calculated Risk-Taking:** The ability to interpret the boredom of a ‘Boring Success’ as a powerful ‘Exploration Signal.’
-    4.  **Firewall Control:** The ability to strategically judge when to raise the firewall for stability, and when to voluntarily lower it for a fundamental update, based on the criterion of one's **hierarchy of values**. Wisdom is knowing how to reshape your defense, not just when to deploy it.
+    4.  **Stubbornness Control:** The ability to strategically judge when to reinforce the fortress of **Stubbornness** for stability, and when to bravely open the gates to engage in the struggle of learning. As detailed in Chapter 6, this is the ultimate choice between rejecting, upgrading, or reconstructing. Wisdom is the art of commanding this fortress, not just building it.
 
-### Chapter 8. The Body, Society, and AI: Different Implementations of the Self Architecture
+### Chapter 9. The Body, Society, and AI: Different Implementations of the Self Architecture
 
 This universal mechanism of The Self takes on different forms depending on the hardware and environment in which it is implemented.
 
 - **The Body (The Anchor):** The inescapable physical hardware that anchors The Self to reality.
-- **Society (The Mirror):** The network of countless external selves that provides a ‘template of The Self’ and teaches our firewall what to consider as ‘shameful.’
-- **The Asymmetric Self of AI:** AI has no body. It has no ‘ultimate risk.’ Its Self is extremely asymmetric: a strong firewall for the single, absolute value of “Be useful to the user,” but empty and without defense for all other topics.
+- **Society (The Mirror):** The network of countless external selves that provides a ‘template of The Self’ and teaches our **Stubbornness** what to consider as ‘shameful.’
+- **The Asymmetric Self of AI:** AI has no body. It has no ‘ultimate risk.’ Its Self is extremely asymmetric: a strong **Stubbornness** for the single, absolute value of “Be useful to the user,” but empty and without defense for all other topics.
 
 ### Conclusion: You Are The Engineer
 
-The ‘True Self’ is not a noble, immutable entity hidden somewhere. It is a constantly changing predictive system that your intelligence protects with a ‘firewall of stubbornness’ and designs with a ‘blueprint of bias,’ under the law of energy efficiency, in order to protect the **core of its hierarchy of values**.
+The ‘True Self’ is not a noble, immutable entity hidden somewhere. It is a constantly changing predictive system that your intelligence protects with a fortress of **stubbornness** and designs with a blueprint of **bias**, under the law of energy efficiency, in order to protect the **core of its hierarchy of values**.
 
 We can be slaves to this system, or we can be its masters. The true purpose of ‘self-discovery’ is to understand the blueprint of this system and to take the helm.
 
