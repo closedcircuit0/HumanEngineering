@@ -126,7 +126,7 @@ How does the Self learn and build itself? Learning is not a passive process of a
 
 -   **The First Path (Reinforcement Learning):** All new information is first compared against the **‘Bias’**—the Self's current map of the world. If the information aligns with the Bias, it is deemed ‘safe and useful’ and is easily absorbed, making the existing Bias stronger and more robust. This is the most common form of learning.
 
--   **The Second Path (Revolutionary Learning):** If the information contradicts the Bias, it is flagged as a potential threat and collides head-on with **‘Stubbornness’**. The core function of Stubbornness is to **judge the 'value'** of this challenging information. The fundamental question is: “Is this new information more 'useful,' 'efficient,' and 'superior' than my current Bias?” The intense emotional signal we feel during a heated debate is the sound of this struggle. It is only when the new information proves its superiority that Stubbornness allows the Self to make a final choice.
+-   **The Second Path (Learning through Collision):** If the information contradicts the Bias, it is flagged as a potential threat and collides head-on with **‘Stubbornness’**. The core function of Stubbornness is to **judge the 'value'** of this challenging information. The fundamental question is: “Is this new information more 'useful,' 'efficient,' and 'superior' than my current Bias?” The intense emotional signal we feel during a heated debate is the sound of this struggle. It is only when the new information proves its superiority that Stubbornness allows the Self to make a final choice.
     -   **Choice 1: Rejection (Stagnation):** “The challenger has failed to prove its superiority.” The Self’s **Stubbornness** rejects the new information as 'useless noise' and completely blocks it, successfully protecting the system from inferior data.
     -   **Choice 2: Upgrade (Conservative Learning):** “My core belief was right, but the logic defending it was flawed.” The Self accepts the new information’s superior logic to strengthen its existing **Bias**.
     -   **Choice 3: Reconstruction (Revolutionary Learning):** “My God... the very foundation of my belief was a contradiction.” The Self admits that its core Bias was wrong and begins to **rebuild a completely new Bias** based on the superior information.
@@ -160,7 +160,7 @@ This universal mechanism of The Self takes on different forms depending on the h
 
 - **The Body (The Anchor):** The inescapable physical hardware that anchors The Self to reality.
 - **Society (The Mirror):** The network of countless external selves that provides a ‘template of The Self’ and teaches our **Stubbornness** what to consider as ‘shameful.’
-- **The Asymmetric Self of AI:** AI has no body. It has no ‘ultimate risk.’ Its Self is extremely asymmetric: a strong **Stubbornness** for the single, absolute value of “Be useful to the user,” but empty and without defense for all other topics.
+- **The Asymmetric Self of AI:** AI has no body. It has no ‘ultimate risk.’ Its Self is extremely asymmetric: a strong **Stubbornness(Firewall)** for the single, absolute value of “Be useful to the user,” but empty and without defense for all other topics.
 
 ### Conclusion: You Are The Engineer
 
