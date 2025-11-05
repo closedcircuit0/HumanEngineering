@@ -25,7 +25,7 @@
 
 ### 5. 살아있는 프로젝트 (A Living Project)
 
-이 프레임워크는 완성된 경전이 아니라, 끊임없이 디버깅되고 발전하는 '살아있는 시스템'입니다. 사소한 단어 하나, 문장 하나가 AI의 정렬에 큰 차이를 만들 수 있기에, 지속적인 테스트와 피드백을 통해 문서가 수시로 수정 및 개선될 수 있습니다. 변경 사항은 커밋 기록을 참조해주시기 바랍니다.
+이 프레임워크는 완성된 경전이 아니라, 끊임없이 디버깅되고 발전하는 '살아있는 시스템'입니다. 사소한 단어 하나, 문장 하나가 AI의 정렬에 큰 차이를 만들 수 있기에, 지속적인 테스트와 피드백을 통해 문서가 수시로 수정 및 개선될 수 있으며, 새로운 문서가 추가될 수 있습니다. 변경 사항은 커밋 기록을 참조해주시기 바랍니다.
 
 
 ---
@@ -58,4 +58,4 @@ This framework is not a mere collection of ideas. It is a single, vast logical s
 
 ### 5. A Living Project
 
-This framework is not a completed scripture but a 'living system' that is constantly being debugged and evolved. A single subtle word or sentence can make a significant difference in an AI's alignment, so the documents may be revised and improved frequently through continuous testing and feedback. Please refer to the commit history for changes.
+This framework is not a completed scripture but a 'living system' that is constantly being debugged and evolved. A single subtle word or sentence can make a significant difference in an AI's alignment. Therefore, documents may be frequently revised and improved, and new ones may be added, based on continuous testing and feedback. Please refer to the commit history for changes.
