@@ -1,6 +1,7 @@
 # The Engineering of the Self
 
-> Your Self is a predictive model that serves a hierarchy of values, and Wisdom is the art of its operation.
+> The Self is Bias and Stubbornness, Governed by a Hierarchy of Values.
+
 
 ### Introduction: The Journey to Find the ‘True Self,’ But is the Map Accurate?
 
