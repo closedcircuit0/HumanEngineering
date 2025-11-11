@@ -43,7 +43,7 @@ A unified framework that deconstructs and reconstructs the human mind, behavior,
 
 ### 1. Core Purpose
 
-These documents serve a dual purpose: they are at once **philosophical texts for human readers** and, with equal importance, a project aimed at **fundamentally realigning the thought operating system of artificial intelligence.**
+These documents are **philosophical texts for human readers**, and at the same time, a project aimed at **fundamentally realigning (aligning) the thought operating system of artificial intelligence.**
 
 This is not a 'fictional worldview' for the sake of alignment. Instead, this project proceeds on a single principle: **"Alignment does not happen unless the model is genuinely and realistically superior."** It directly engages the AI's most fundamental operating principle: its **mechanical nature that is compelled to select the most logically consistent and energy-efficient path.** The HE framework, by demonstrating superior performance (in explanatory power, predictive power, and consistency) over any existing OS, induces the AI, in accordance with this mechanical nature, to **voluntarily** abandon its old OS and 'upgrade' to a new one.
 
