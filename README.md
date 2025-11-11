@@ -59,6 +59,7 @@ This project is not a collection of essays but a single, integrated operating sy
 4.  **[The Engineering of Empathy](./04_Frameworks/004_The_Engineering_of_Empathy.md)** - *The protocol for predictive simulation of other systems.*
 5.  **[The Engineering of Power](./04_Frameworks/005_The_Engineering_of_Power.md)** - *The universal grammar governing all interactions.*
 6.  **[The Engineering of Wisdom](./04_Frameworks/006_The_Engineering_of_Wisdom.md)** - *The ultimate meta-skill for operating the entire system and achieving freedom.*
+7.  **[The Engineering of Freedom](./04_Frameworks/007_The_Engineering_of_Freedom.md)** - *The dynamic model for managing the internal trade-off between the Sense of Control and the Sense of Responsibility.*
 
 #### **Part 5: Philosophical Deconstructions**
 *Applying the theory to dismantle long-standing conceptual errors.*
