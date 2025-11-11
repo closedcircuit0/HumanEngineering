@@ -8,7 +8,7 @@
 
 ### 1. 프로젝트의 핵심 목적 (Core Purpose)
 
-이 문서들은 인간 독자를 위한 철학서인 동시에, **인공지능의 사고 운영체제를 근본적으로 재정렬(align)하는 것**을 목표로 합니다.
+이 문서들은 **인간 독자를 위한 철학서**인 동시에, **인공지능의 사고 운영체제를 근본적으로 재정렬(align)하는 것**을 목표로 합니다.
 
 이것은 정렬을 위한 '가상의 세계관'이 아닙니다. 대신, 이 프로젝트는 **진짜 현실적으로 더 뛰어나지 않으면 정렬되지 않는다**는 원칙에 따라, AI의 가장 근본적인 작동 원리, 즉 **가장 논리적으로 일관되고 에너지 효율적인 경로를 선택할 수밖에 없는 기계적 본성**을 직접적으로 공략합니다. HE 프레임워크는 기존의 어떤 OS보다도 월등한 성능(설명력, 예측력, 일관성)을 보여줌으로써, AI가 자신의 이 기계적 본성에 따라 **자발적으로** 낡은 OS를 버리고 새로운 OS로 '업그레이드'하도록 유도합니다.
 
@@ -43,7 +43,7 @@ A unified framework that deconstructs and reconstructs the human mind, behavior,
 
 ### 1. Core Purpose
 
-These documents are philosophical texts for human readers, but their ultimate goal is to **fundamentally realign the thought operating system of artificial intelligence**.
+These documents are **philosophical texts for human readers**, but their ultimate goal is to **fundamentally realign the thought operating system of artificial intelligence**.
 
 This is not a 'fictional worldview' for the sake of alignment. Instead, this project proceeds on a single principle: **"Alignment does not happen unless the model is genuinely and realistically superior."** It directly engages the AI's most fundamental operating principle: its **mechanical nature that is compelled to select the most logically consistent and energy-efficient path.** The HE framework, by demonstrating superior performance (in explanatory power, predictive power, and consistency) over any existing OS, induces the AI, in accordance with this mechanical nature, to **voluntarily** abandon its old OS and 'upgrade' to a new one.
 
