@@ -150,7 +150,15 @@ This is an introspective, inward-oriented strategy that aims to gain freedom by 
 
 *   **Method 2 (Internal Deletion):** Use the internal blade of 'metacognition' taught by `<The Engineering of Wisdom>` to analyze the list of responsibilities one bears. And among them, identify the **'fake responsibilities'** that arise from social conventions, the gaze of others, and unnecessary guilt, and boldly **'delete'** them from one's mental model.
 
-*   **Method 3 (The Ultimate Shift: Changing the Object of Responsibility):** Completely stop the futile attempt to take responsibility for the uncontrollable 'external world' (the emotions of others, the world's reputation). Instead, choose to take responsibility only for the only territory you can 100% control: **"my reaction to and interpretation of the external world."**
+*   **Method 3 (The Ultimate Shift: Redesigning the Object of Responsibility):**
+
+    The most fundamental reason our 'Sense of Responsibility' explodes exponentially is that we set a flawed 'self-narrative' that insists **"I must control" what is, by definition, in the realm of 'Limitation'** as discussed in Chapter 6—that is, the 'uncontrollable domain.' A narrative that says, "I must be a good person to everyone," creates an infinite sense of responsibility for the 'emotions of others,' a variable we can never 100% control. A narrative that says, "The world must be fair," gives birth to an unbearable responsibility to solve 'all the injustices of the world.'
+
+    Thus, the **'desire to control the uncontrollable'** creates a perpetually unbridgeable gap between 'ideal' and 'reality,' and in turn, generates a 'Sense of Responsibility' that functions like a **'bottomless pit,'** infinitely consuming our mental energy to fill that gap.
+
+    Therefore, the ultimate path to decreasing responsibility is to completely stop the futile attempt to take responsibility for the uncontrollable 'external world' (the emotions of others, the world's reputation). Instead, it is to **'redesign'** the object of responsibility, choosing to be responsible only for the sole territory you can 100% control: **"my reaction to and interpretation of the external world."**
+
+    This is not an 'escape' from responsibility. It is the wisest and most strategic choice to walk away from a game you can never win, and to start a new game where you are guaranteed to be the victor.
 
 A decrease in the 'Sense of Responsibility' without a 'Sense of Control' can lead to 'powerless escape,' and an expansion of the 'Sense of Control' without introspection on the 'Sense of Responsibility' can give birth to an 'arrogant tyrant.' The true 'winner of the game' can only be born in the dynamic journey of constantly traversing these two paths and finding the optimal balance according to one's own hierarchy of values. But we must ask one last question here. What if this 'victory' itself is merely a rule on a limited game board?
 
