@@ -1,6 +1,6 @@
 # [Appendix] Why Solipsism, Now?
 
-### Subtitle: From the Cartel of Silence to the Age of AI
+### From the Cartel of Silence to the Age of AI
 
 ---
 
