@@ -81,6 +81,7 @@ This project is not a collection of essays but a single, integrated operating sy
 2.  **[One Engine, Two Minds](./06_Case_Studies/002_One_Engine_Two_Minds.md)** - *A comparative analysis of the engine in humans and AI.*
 3.  **[The Collapse of the Storyteller](./06_Case_Studies/003_The_Collapse_of_the_Storyteller.md)** - *An engineering approach to dementia.*
 4.  **[Critique and Response on 'The Deconstruction of Qualia'](./06_Case_Studies/004_Deconstruction_of_Qualia-Critique_and_Response.md)** - *A real-world stress test of the theory against a critique.*
+5.  **[[Appendix]Why Solipsism, Now?](./06_Case_Studies/005_[Appendix]_Why_Solipsism,_Now?.md)**- *The only difference between Solipsism and Realism was Realism's ‘confession of faith’.*
 
 ---
 
