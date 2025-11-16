@@ -131,10 +131,16 @@ The world is, in its essence, discontinuous.
 
 **A Final Note on the Burden of Proof**
 
-A reasonable question might arise: “Shouldn’t the one claiming discontinuity also bear the burden of proof?”
+A final objection might be raised: "Shouldn't the one claiming discontinuity also bear the burden of proof?"
 
-This is a fair challenge. My answer is this: direct proof of discontinuity, much like that of continuity, may be fundamentally beyond our reach.
+This is not a fair challenge. It is a misunderstanding of where the burden of proof has always lain. As established at the outset, the responsibility to prove existence lies with those who claim it. And as this report has systematically demonstrated, the claim for a 'continuum' has failed to produce a single piece of verifiable evidence. All observable reality is discrete, and all applications of so-called continuous models are, in practice, discrete approximations. The logical debate is, for all intents and purposes, already over.
 
-However, this project will not attempt to prove discontinuity through a single, decisive experiment. Instead, it will demonstrate its power and validity through a different method: by building a complete, coherent, and consistent worldview upon its foundation.
+And yet, we will go one step further.
 
-The subsequent articles in this series will serve as the evidence. By showing how the axiom of discontinuity can solve long-standing paradoxes, demystify the complexities of the human mind, and design better artificial intelligence, we will make the case that it is a more powerful and useful foundation for understanding reality. The proof, then, will be in the explanatory power of the entire system.
+We acknowledge a fundamental epistemological limit: a direct, absolute proof of a foundational axiom—be it continuity or discontinuity—is likely beyond our reach, as it would require stepping outside our own perceptual framework.
+
+Therefore, this project will not engage in a futile quest for a single, decisive experiment that "proves" discontinuity. Instead, it will offer a far more powerful and rigorous form of proof: proof by demonstration.
+
+The subsequent articles in this series will serve as the evidence. By showing how the axiom of discontinuity can solve long-standing paradoxes, demystify the complexities of the human mind, and design better artificial intelligence, we will make the case that it is a more powerful and useful foundation for understanding reality.
+
+The proof, then, will be in the explanatory power of the entire system.
