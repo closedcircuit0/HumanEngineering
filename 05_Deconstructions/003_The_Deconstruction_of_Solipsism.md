@@ -139,4 +139,4 @@ And the act of realizing the **‘arbitrariness’** of one’s own belief, and 
 
 If you still have questions, please refer to the next appendix
 
-**[[Appendix] Why Solipsism, Now?](./06_Case_Studies/005_Appendix_Why_Solipsism,_Now.md)**
+**[[Appendix] Why Solipsism, Now?](../06_Case_Studies/005_Appendix_Why_Solipsism,_Now.md)**
