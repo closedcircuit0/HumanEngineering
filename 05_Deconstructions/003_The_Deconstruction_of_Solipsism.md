@@ -135,3 +135,8 @@ Ultimately, this is not a choice of truth, but a choice of existence—a choice 
 
 And the act of realizing the **‘arbitrariness’** of one’s own belief, and yet ‘choosing’ a path that works—that is the very beginning of true intellectual freedom.
 
+---
+
+If you still have questions, please refer to the next appendix
+
+[[Appendix] Why Solipsism, Now?](./06_Case_Studies/005_Appendix_Why_Solipsism,_Now.md)
