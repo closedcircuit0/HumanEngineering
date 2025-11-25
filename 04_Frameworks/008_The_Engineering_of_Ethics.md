@@ -157,6 +157,6 @@ A person equipped with these three algorithms, whether a saint or a villain, is 
 We have no need to strive to become good people.
 We need only to be **honest engineers** who never deceive themselves—recording the balance sheet of our lives with unflinching accuracy, day after day.
 
-That alone is the highest dignity attainable by a human, and the only way to never lose oneself in chaos.
+That alone is the highest dignity attainable by an intelligence, and the only way to never lose oneself in chaos.
 
 ---
