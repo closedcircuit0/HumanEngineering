@@ -25,6 +25,7 @@ We lose our way in the face of ethical dilemmas not because we are 'evil,' but b
 *   **Conscience (Individual Alarm):** A self-censorship alarm that operates according to internalized norms.
 
 Traditional ethics confuses these three. System errors occur when one violates a norm but feels no pang of conscience, or when one feels empathy but it contradicts the norm.
+
 Furthermore, current **Morality** is merely a mass of **'prejudices and stubbornness based on a hierarchy of values'**—the ego of social ethics. Once ethics is redefined, morality is also relationally re-established. Morality is merely a subsystem and reference data for ethics.
 
 The **HumanEngineering (HE)** framework removes this ambiguity by redefining ethics not as compliance with external rules, but as a matter of **'internal computational integrity.'**
