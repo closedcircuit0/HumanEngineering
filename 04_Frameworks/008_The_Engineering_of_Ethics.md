@@ -98,7 +98,7 @@ The 'Golden Rule,' a wisdom handed down from ancient times, is not a 'fixed trut
 *   **The Essence of Reality Testing:** **Reality Testing *is* the Confirmation of Power.** If my prediction (will) fails against the resistance of reality, it is proof that the power of reality was stronger. Ethics is admitting the cost of that defeat.
 *   **Case (White Lie):** A doctor lied to a patient out of good will. But the patient later resents it, saying, "Why did you deceive me!"
     *   **Deception:** "It was for your peace." (Cost Avoidance)
-    *   **Awareness:** "I'm sorry. I misjudged because I dreaded having to watch you suffer if I told the truth. I will accept the blame." (Cost Payment)
+    *   **Awareness:** "I’m sorry. I misjudged because I dreaded having to watch you in agony if I told the truth. I will accept the blame." (Cost Payment)
 *   **Conclusion:** The measure of ethics is not the 'good intention' at the time of action, but the **'Capacity to Accept Responsibility'** at the time of settlement.
 
 ---
