@@ -2,6 +2,60 @@
 
 > This is not merely a work of first philosophy; it is the blueprint for an operating system for the mind, executed with the precision of engineering. It deconstructs the observer to establish the fundamental axioms that govern our construction of reality, and then reconstructs it, piece by piece, from the simplest perception to the ultimate art of wisdom.
 
+---
+
+# [Definition] The Equation of Human Engineering: Constants, Parameters, and Variables
+
+**HumanEngineering (HE)** is an analytical tool designed to resolve vague humanistic phenomena with engineering precision. It achieves this by deconstructing the phenomenon of "human" into three distinct layers: **Constants**, **Fixed Variables (Parameters)**, and **Variables**.
+
+### 1. Constant: The Universal Operating Principles
+> *"The immutable laws that operate for everyone, always, without exception."*
+
+This is the **Kernel** of the system and the unchangeable **Laws of Physics** within the mind. We do not criticize or attempt to alter these; instead, we accept them as the default basis for all analysis.
+
+*   **Definition:** The information processing mechanisms common to all intelligence.
+*   **HE Components:**
+    *   **Flickering:** The operational mode of intelligence oscillating between interpolation (t) and prediction (z).
+    *   **Will to Control:** The prime mover aiming to reduce uncertainty and expand the narrative.
+    *   **Prediction-Error:** The sole trigger for learning and emotion.
+
+### 2. Fixed Variable (Parameter): The Universal Attributes (Individual Values)
+> *"Attributes possessed by all, but set with different default values and capacities for each individual."*
+
+This represents the **Hardware Specs** and the established **Initial Parameters** of an individual system. Since they are difficult to change in the short term, they are treated as "given conditions" in problem-solving.
+
+*   **Definition:** The unique settings that determine an individual's characteristics and limitations.
+*   **HE Components:**
+    *   **The Body:** Physical limits, lifespan, and nervous system sensitivity.
+    *   **Bias & Stubbornness:** The circuits solidified by past data.
+    *   **Hierarchy of Values:** The priority of values currently set by the individual.
+
+### 3. Variable: The Situational Attributes (Input Values)
+> *"Environmental and relational input data that changes every moment."*
+
+This is the **External Data ($x$)** input into the system in real-time. It is the domain we can intervene in and control first to solve problems.
+
+*   **Definition:** Fluid values entering the system from the uncontrollable external world.
+*   **HE Components:**
+    *   **The Other:** The reactions, words, and actions of others.
+    *   **Context:** Zeitgeist, economic conditions, and random events.
+
+---
+
+### [Conclusion] The Human Equation
+
+HumanEngineering defines complex human behavior ($y$) through the following function:
+
+$$ Behavior(y) = F_{constant}(P_{fixed}, x_{variable}) $$
+
+This equation provides a clear **Problem-Solving Algorithm**:
+
+1.  **Control the Variable ($x$):** First, attempt to change the situation and environment.
+2.  **Reset the Fixed Variable ($P$):** If that fails, reset your biases and value hierarchy through education and training.
+3.  **Accept the Constant ($F$):** If all else fails, understand and accept that this result is the inevitable output of the system known as "Human."
+
+--- 
+
 ## The Core Logic of the System
 
 The Human Engineering framework is a complete, axiomatically derived system that reverse-engineers the operating principles of any intelligence confronting a discontinuous reality. It explains how, from a few fundamental constraints, the entire architecture of the mind—from perception to consciousness, selfhood, and wisdom—inevitably emerges.
