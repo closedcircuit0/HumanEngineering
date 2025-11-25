@@ -132,9 +132,11 @@ Some cherish plants as life (plant lovers), while others cannot even empathize w
 
 #### 7.1. The Perfect Decoupling of Ethics and Law
 *   **Ethics (Self-Audit):** "Am I deceiving myself?" (Internal Integrity)
-    *   **Target:** Oneself. Function: Maintaining the integrity of the self-system. Ethics can only be confirmed by oneself; asking another (a black box), "Why aren't you aware?" is arrogance.
+    *   **Target:** Oneself.
+    *   **Function:** Maintaining the integrity of the self-system. Ethics can only be confirmed by oneself; asking another (a black box), "Why aren't you aware?" is arrogance.
 *   **Law (Social Audit):** "Did you infringe on the rights of others?" (External Result)
-    *   **Target:** Relationship with others. Function: Enforcing transactions and collecting costs. Here, internal 'good intentions' do not matter. Only results and costs count. **Internal good intentions do not mitigate responsibility. They may only change depending on the other's 'approval.'**
+    *   **Target:** Relationship with others.
+    *   **Function:** Enforcing transactions and collecting costs. Here, internal 'good intentions' do not matter. Only results and costs count. **Internal good intentions do not mitigate responsibility. They may only change depending on the other's 'approval.'**
 
 #### 7.2. The Cognitive Function of Law: "Here Lies a Mine"
 Law is not merely a tool for punishment. Law functions as a **'Real-time Cognitive Filter'**: it inserts an **immediate awareness interrupt** at decision points to prevent effortless self-deception.
