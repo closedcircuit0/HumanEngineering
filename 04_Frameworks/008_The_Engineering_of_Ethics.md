@@ -114,7 +114,7 @@ Where, then, does the act of helping others (Altruism) come from? **This is not 
 
 #### 6.2. Expansion of Structural Axis (z): Resonator
 This is not a choice, but a matter of **'Rendering Compatibility'** and **'Automatic Simulation.'**
-*   **Mechanism (The Engineering of Empathy):** When another's pain data (screams, blood: xy-axis) is input, if the target is recognized as a **'structure similar to me,'** my simulator (z-Mode) automatically operates to generate **'Simulated Pain'** within my system. **Now, the other's pain is 'my pain,' although it may be degraded depending on the synchronization level.**
+*   **Mechanism (The Engineering of Empathy):** When another's pain data (screams, blood: xy-axis) is input, if the target is recognized as a **'system like mine'**, my simulator (z-Mode) automatically operates to generate **'Simulated Pain'** within my system. **Now, the other's pain is 'my pain,' although it may be degraded depending on the synchronization level.**
 *   **Essence of Action:** I am not helping the other; I am acting to turn off **'this uncomfortable alarm (synchronized pain)'** ringing in my head right now.
 *   **Subjective Spectrum:** The range of this simulation depends not on the presence of an objective nervous system, but on the observer's **'Subjective Interpretation.'** To an insect lover, an insect's struggle renders as pain, but to a layperson, it is simple movement. We are all **'Sophisticated Solipsists'** who empathize only within our own experience.
 
