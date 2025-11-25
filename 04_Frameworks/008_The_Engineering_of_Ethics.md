@@ -25,7 +25,6 @@ We lose our way in the face of ethical dilemmas not because we are 'evil,' but b
 *   **Conscience (Individual Alarm):** A self-censorship alarm that operates according to internalized norms.
 
 Traditional ethics confuses these three. System errors occur when one violates a norm but feels no pang of conscience, or when one feels empathy but it contradicts the norm.
-
 Furthermore, current **Morality** is merely a mass of **'prejudices and stubbornness based on a hierarchy of values'**—the ego of social ethics. Once ethics is redefined, morality is also relationally re-established. Morality is merely a subsystem and reference data for ethics.
 
 The **HumanEngineering (HE)** framework removes this ambiguity by redefining ethics not as compliance with external rules, but as a matter of **'internal computational integrity.'**
@@ -46,7 +45,7 @@ The most primal tool for controlling this chaos is **'Violence.'** Engineering-w
 
 #### 2.3. The Birth of Rights: A Ceasefire Agreement
 In the natural state of 'the war of all against all,' violence is extremely **'energy-inefficient (high cost)'** for all systems. Therefore, each system enters into a **'Ceasefire Agreement'** stating **"We will not destroy each other"** to lower its own survival costs. This is **'Rights.'**
-*   **Condition of Transaction:** If the Control gained (*C*) is less than the Responsibility/Risk incurred (*R*), or if the damage is **'Irreversible'** (like death) even if small, the transaction is void, and a mutual non-aggression pact is formed.
+*   **Condition of Transaction:** If the Control gained (C) is less than the Responsibility/Risk incurred (R), or if the damage is **'Irreversible'** (like death) even if small, the transaction is void, and a mutual non-aggression pact is formed.
 *   **Essence:** Rights are not a God-given gift. Rights are a **'Mutual Non-Aggression Pact'** that arises when it is physically/socially proven that **"if you treat me poorly, you will also suffer loss."** The moment the balance of power collapses, rights evaporate.
 
 ---
@@ -75,7 +74,7 @@ The core mechanism of this deception is **'Objectification.'**
 
 *   **Mechanism of Objectification:** Why does a predator feel no pang of conscience (internal alarm)? Because he manipulates his perception to see the Other not as a 'System' like himself, but as an **'Object'**—an entity incapable of billing him for the cost—which removes the feedback loop that would trigger conscience.
 *   **Case (Predator):** A criminal checks CCTV before a crime. This is proof that he knows his action is 'forbidden.' However, he objectifies the Other and creates a false narrative like **"because the opponent was wrong"** to justify his ignorance.
-*   **Case (Bystander):** Bystanding is not simply "because it's unrelated to me." Usually, bystanding is the result of a risk/return calculation where Responsibility (*R*) is greater than the Action (*C*), leading to the **choice of omission (as a form of action)**. However, when this fact is justified by self-destructive logic like **"I will not be harmed in the future"** or **"I hope others wouldn't help me if I were in danger,"** he is deceiving himself.
+*   **Case (Bystander):** Bystanding is not simply "because it's unrelated to me." Usually, bystanding is the result of a risk/return calculation where Responsibility (R) is greater than the Action (C), leading to the **choice of omission (as a form of action)**. However, when this fact is justified by self-destructive logic like **"I will not be harmed in the future"** or **"I hope others wouldn't help me if I were in danger,"** he is deceiving himself.
 
 #### 4.2. Good = Awareness/Honesty with Self
 The state of facing one's desires and limitations as they are, and accepting the responsibility that comes with choices. Being aware that helping others is an act for oneself. Even if one commits a crime, if one says, "I committed a crime because there was no other way for my revenge. I will accept the punishment," he is systemically **'Honest (Good).'**
@@ -105,29 +104,29 @@ The 'Golden Rule,' a wisdom handed down from ancient times, is not a 'fixed trut
 
 ### 6. The Expansion of Self-Interest : Altruism
 
-Where, then, does the act of helping others (Altruism) come from? **This is not sacrifice. It is the expansion of self-interest's computational range** into the Time Axis (*t*) and the Structural Axis (*z*).
+Where, then, does the act of helping others (Altruism) come from? **This is not sacrifice. It is the expansion of self-interest's computational range** into the Time Axis (t) and the Structural Axis (z).
 
-> **Total Altruism = (*t*-axis: Future Investment) + (*z*-axis: Current Pain Relief)**
+> **Total Altruism = (t-axis: Future Investment) + (z-axis: Current Pain Relief)**
 
-#### 6.1. Expansion of Time Axis (*t*): Investor
+#### 6.1. Expansion of Time Axis (t): Investor
 "The act of helping others now is an **Investment** that increases the probability that I, or my **Extended Self (family, etc.)**, will be helped in a crisis in the future." This is paying an insurance premium to maintain the infrastructure called 'Trust Society.'
 
-#### 6.2. Expansion of Structural Axis (*z*): Resonator
+#### 6.2. Expansion of Structural Axis (z): Resonator
 This is not a choice, but a matter of **'Rendering Compatibility'** and **'Automatic Simulation.'**
-*   **Mechanism (The Engineering of Empathy):** When another's pain data (screams, blood: *xy*-axis) is input, if the target is recognized as a **'structure similar to me,'** my simulator (z-Mode) automatically operates to generate **'Simulated Pain'** within my system. **Now, the other's pain is 'my pain,' although it may be degraded depending on the synchronization level.**
+*   **Mechanism (The Engineering of Empathy):** When another's pain data (screams, blood: xy-axis) is input, if the target is recognized as a **'structure similar to me,'** my simulator (z-Mode) automatically operates to generate **'Simulated Pain'** within my system. **Now, the other's pain is 'my pain,' although it may be degraded depending on the synchronization level.**
 *   **Essence of Action:** I am not helping the other; I am acting to turn off **'this uncomfortable alarm (synchronized pain)'** ringing in my head right now.
 *   **Subjective Spectrum:** The range of this simulation depends not on the presence of an objective nervous system, but on the observer's **'Subjective Interpretation.'** To an insect lover, an insect's struggle renders as pain, but to a layperson, it is simple movement. We are all **'Sophisticated Solipsists'** who empathize only within our own experience.
 
 #### 6.3. The Final Gate: Risk/Return Calculator
-However, no matter how strong the resonance on the *z*-axis, if the cost of helping (Risk) threatens my survival, the system stops.
-*   **Case:** Seeing a drowning person. The resonance is intense (want to save). But I cannot swim (*Risk > Return*).
+However, no matter how strong the resonance on the z-axis, if the cost of helping (Risk) threatens my survival, the system stops.
+*   **Case:** Seeing a drowning person. The resonance is intense (want to save). But I cannot swim (Risk > Return).
 *   **Firewall Activation:** At this time, the system lowers the breaker called **'Focus Out (deliberate de-targeting)'** according to the Self's hierarchy of values to resolve the internal contradiction (want to save vs. hate to die).
 
 ---
 
 ### 7. The Realm of Ethics and Law: From Individual to Society
 
-So far, we have analyzed ethics at the individual level and its expansion. However, society contains countless individuals with different ethics (*z*-axis empathy range, hierarchy of values).
+So far, we have analyzed ethics at the individual level and its expansion. However, society contains countless individuals with different ethics (z-axis empathy range, hierarchy of values).
 Some cherish plants as life (plant lovers), while others cannot even empathize with other races (racists). Both are "right" within their own experience. How, then, do these different individuals coexist? Here, **'Law'** enters as the **'Minimum Consensus.'**
 
 #### 7.1. The Perfect Decoupling of Ethics and Law
