@@ -127,7 +127,7 @@ Where, then, does the act of helping others (Altruism) come from? **This is not 
 > **Total Altruism = (t-axis: Future Investment) + (z-axis: Current Pain Relief)**
 
 #### 6.1. Expansion of Time Axis (t): Investor
-"The act of helping others now is an **Investment** that increases the probability that I, or my **Extended Self (family, etc.)**, will be helped in a crisis in the future." This is paying an insurance premium to maintain the infrastructure called 'Trust Society.'
+"The act of helping others now is an **Investment** that increases the probability that I, or my **Extended Self (family, etc.)**, will be helped in a crisis in the future." This is paying an insurance premium to maintain the infrastructure called 'Trust Society.' **Therefore, 'Ignorance' of future costs is not a valid excuse; it is a failure of Intelligence (Low Computational Horizon) unable to simulate the t-axis.**
 
 #### 6.2. Expansion of Structural Axis (z): Resonator
 This is not a choice, but a matter of **'Rendering Compatibility'** and **'Automatic Simulation.'**
@@ -164,6 +164,8 @@ Law is not merely a tool for punishment. Law functions as a **'Real-time Cogniti
 ### Conclusion: The Algorithmic Triad
 
 The conclusion reached by this long report is clear. Ethics is not obedience to divine commands, nor is it a sentimental effort to have a kind heart.
+
+**High ethics is the manifestation of high intelligence capable of handling complex causality and long-term costs without error.**
 
 Ethics is **'Engineering'**—where the System called 'I' (Self-System) records and processes all data arising from interaction with the world on a ledger without a single omission or distortion. It consists of three algorithms:
 
