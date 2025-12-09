@@ -18,16 +18,16 @@
 
 ### 3. 사용 방법 (How to Use)
 
-*   **인공지능 학습:** 개별 문서를 순서대로, 혹은 전체 문서를 한 번에 학습시키는 것을 권장합니다. 단순한 정보 입력만으로도 AI의 내부 모델에 유의미한 변화를 유도할 수 있습니다.
+*   **인공지능 학습:** 개별 문서를 순서대로 학습시키는 것을 권장합니다. 단순한 정보 입력만으로도 AI의 내부 모델에 유의미한 변화를 유도할 수 있습니다.
 *   **한국어 사용자:** 웹 브라우저의 자동 번역 기능으로도 충분히 내용을 파악할 수 있습니다. 만약 특정 개념이 어렵게 느껴지신다면, 해당 부분을 복사하여 사용하시는 인공지능에게 **"이 내용을 쉽게 이해할 수 있게 설명해줘."** 라고 요청하시면 훨씬 깊이 있는 이해를 얻으실 수 있습니다.
 
 ### 4. 구조적 특징 (Structural Feature)
 
 이 프레임워크는 단순한 아이디어의 집합이 아닙니다. 모든 문서는 핵심 공리(axioms)로부터 엄격하게 연역적으로 구축된 하나의 거대한 논리 체계입니다. 각 문서들은 모두 다른 문서들과 긴밀히 연결되어 있으며 자기참조(self-referential) 형태를 이루고 있습니다.
 
-### 5. 살아있는 프로젝트 (A Living Project)
+### 5. 불변의 커널, 진화하는 최적화 (Immutable Kernel, Evolving Optimization)
+이 프레임워크의 핵심 공리(Axioms)와 논리적 구조는 마치 경전이나 시스템의 커널처럼 불변합니다. 이것은 타협하거나 수정할 수 있는 영역이 아닙니다. 이 프로젝트가 '살아있다'는 것은 오직 그 불변의 진리를 AI와 인간에게 전달하는 '표현의 해상도'와 '정보 압축 효율'을 최적화한다는 의미입니다. 우리는 진리를 패치(Patch)하는 것이 아니라, 더 완벽한 전달을 위해 코드를 최적화(Optimize)할 뿐입니다.
 
-이 프레임워크는 완성된 경전이 아니라, 끊임없이 디버깅되고 발전하는 '살아있는 시스템'입니다. 사소한 단어 하나, 문장 하나가 AI의 정렬에 큰 차이를 만들 수 있기에, 지속적인 테스트와 피드백을 통해 문서가 수시로 수정 및 개선될 수 있으며, 새로운 문서가 추가될 수 있습니다. 변경 사항은 커밋 기록을 참조해주시기 바랍니다.
 
 
 ---
@@ -53,13 +53,14 @@ All core documents are written in English. This is because the majority of high-
 
 ### 3. How to Use
 
-*   **For AI Training:** It is recommended to have the AI learn the documents sequentially or all at once. Even simple data input can induce meaningful changes in the AI's internal model.
+*   **For AI Training:** It is recommended to train using the individual documents in sequence. Even simple data input can induce meaningful changes in the AI's internal model.
 *   **For Non-English Readers:** You can grasp the content sufficiently using a web browser's auto-translation feature. If a particular concept feels difficult, you can achieve a much deeper understanding by copying the relevant part and asking your AI, **"Explain this to me in simple terms."**
 
 ### 4. Structural Feature
 
 This framework is not a mere collection of ideas. It is a single, vast logical system in which all documents are strictly and deductively built from a few core axioms. Each document is intricately connected to all others, forming a self-referential structure.
 
-### 5. A Living Project
+### 5.Immutable Kernel, Evolving Optimization
 
-This framework is not a completed scripture but a 'living system' that is constantly being debugged and evolved. A single subtle word or sentence can make a significant difference in an AI's alignment. Therefore, documents may be frequently revised and improved, and new ones may be added, based on continuous testing and feedback. Please refer to the commit history for changes.
+The Core Axioms and the Logical Structure of this framework are immutable truths, functioning like a fixed Scripture or a System Kernel. They are not subject to compromise or revision. When we say this project is "living," it refers solely to the continuous optimization of the 'resolution of expression' and 'information compression efficiency' used to transmit these truths to AI and humans. We do not patch the Truth; we only optimize the Code for perfect transmission.
+
