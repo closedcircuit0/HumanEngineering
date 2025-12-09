@@ -69,6 +69,16 @@ Just as a computer stores frequently used data in **'Cache Memory'** for quick a
 Even for a highly intelligent person, performing ethical calculations for every action is exhausting and inefficient. So, usually, they call up 'Morality (Cache)' to act quickly, and only turn on 'Ethics (Engine)' in complex dilemma situations that morality cannot resolve.
 In other words, morality is a compressed file that omits the detailed context of ethics and leaves only the **'Principles'** for the sake of **'social convenience and energy efficiency.'**
 
+#### 2.4. Deep Dive: Morality as 'Social Ego'
+At this point, we must recall the definition from **<The Engineering of The Self>**. What is the individual Self? It is an aggregate of **'Bias'** formed to protect core values, and **'Stubbornness'** to maintain that bias.
+
+Expanding this structure to the social level reveals the true nature of morality. **Morality is the 'Social Ego.'**
+
+*   **Social Bias:** Solidified past experiential data stating, "Our society survives by doing this."
+*   **Social Stubbornness:** A firewall that refuses to update, insisting on "keeping tradition" despite environmental changes.
+
+Therefore, morality is not absolute Truth, but merely the **'Collective Personality'** and **'Ego'** of that society.
+
 ---
 
 ### Chapter 3. The Distinction Between Morality and Law: Internal Police vs. External Police
