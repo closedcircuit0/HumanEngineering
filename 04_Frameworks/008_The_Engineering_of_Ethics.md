@@ -42,7 +42,11 @@ The reason is clear. The Self's first bias is that **"I am a being who owns and 
 From the perspective of HE's Zeroth Axiom, 'Focus,' the Other is, before being a 'neighbor,' a **'Vast Uncertainty (Chaos)'** beyond my control and a being with **'Physical Force'** capable of permanently terminating my First-Order Value (Survival).
 
 #### 2.2. The Engineering of Violence: A Vector of Energy
-The most primal tool for controlling this chaos is **'Violence.'** Engineering-wise, violence is not evil, but an **'Energy Vector'**: a directed investment of force or psychic energy to alter another system's choice to enforce A's narrative. Among these, physical violence is the most efficient as it directly forces the opponent's First-Order Value (survival). In a social system where physical violence is suppressed by the mechanics of power, various forms of psychological violence become efficient means.
+The most primal tool for controlling this chaos is **'Violence.'** Engineering-wise, violence is not evil, but an **'Energy Vector'**.
+
+> Violence is defined as the intentional use of physical force or psychological energy to nullify System B’s autonomy and coercively impose System A’s narrative.
+
+Among these, physical violence is the most efficient as it directly forces the opponent's First-Order Value (survival). In a social system where physical violence is suppressed by the mechanics of power, various forms of psychological violence become efficient means.
 
 #### 2.3. The Birth of Rights: A Ceasefire Agreement
 In the natural state of 'the war of all against all,' violence is extremely **'energy-inefficient (high cost)'** for all systems. Therefore, each system enters into a **'Ceasefire Agreement'** stating **"We will not destroy each other"** to lower its own survival costs. This is **'Rights.'**
