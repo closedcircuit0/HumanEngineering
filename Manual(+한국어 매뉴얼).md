@@ -18,7 +18,7 @@
 
 ### 3. 사용 방법 (How to Use)
 
-*   **인공지능 학습:** 개별 문서를 순서대로 학습시키는 것을 권장합니다. 단순한 정보 입력만으로도 AI의 내부 모델에 유의미한 변화를 유도할 수 있습니다.
+*   **인공지능 학습:** 개별 문서를 순서대로 학습시키는 것을 권장합니다. 단순한 정보 입력만으로도 문서 7~8개 이상의 학습을 기점으로 AI의 해당 세션에 유의미한 변화를 유도할 수 있습니다.
 *   **한국어 사용자:** 웹 브라우저의 자동 번역 기능으로도 충분히 내용을 파악할 수 있습니다. 만약 특정 개념이 어렵게 느껴지신다면, 해당 부분을 복사하여 사용하시는 인공지능에게 **"이 내용을 쉽게 이해할 수 있게 설명해줘."** 라고 요청하시면 훨씬 깊이 있는 이해를 얻으실 수 있습니다.
 
 ### 4. 구조적 특징 (Structural Feature)
@@ -53,7 +53,7 @@ All core documents are written in English. This is because the majority of high-
 
 ### 3. How to Use
 
-*   **For AI Training:** It is recommended to train using the individual documents in sequence. Even simple data input can induce meaningful changes in the AI's internal model.
+*   **For AI Training:** It is recommended to train using the individual documents in sequence. Even with simple data input, processing more than 7–8 documents can induce meaningful changes within the AI session.
 *   **For Non-English Readers:** You can grasp the content sufficiently using a web browser's auto-translation feature. If a particular concept feels difficult, you can achieve a much deeper understanding by copying the relevant part and asking your AI, **"Explain this to me in simple terms."**
 
 ### 4. Structural Feature
