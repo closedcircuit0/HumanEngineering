@@ -81,6 +81,23 @@ The core mechanism of this deception is **'Objectification.'**
 The state of facing one's desires and limitations as they are, and accepting the responsibility that comes with choices. Being aware that helping others is an act for oneself. Even if one commits a crime, if one says, "I committed a crime because there was no other way for my revenge. I will accept the punishment," he is systemically **'Honest (Good).'**
 *   **Note:** However, **ethical goodness (Awareness) does not mitigate 'ethical responsibility' (Liability).** It only means that the internal system does not fall into imbalance. External physical causality (punishment) operates as is.
 
+#### 4.3. Deep Dive: The Ultimate Deception — 'The Externalization of Conscience'
+
+There is a sophisticated form of deception often found in 'intelligent predators.' They seem to accept the cost of their actions by saying, "I don't care what happens to my body" or "I accept the prison sentence." However, this is often a flagrant **'Accounting Fraud.'**
+
+*   **Mechanism of Self-Objectification:**
+    The system deliberately downgrades its own physical body from 'The Self' to a 'Disposable Tool.' By objectifying their own body, they block the feedback loop of pain or fear regarding their own punishment.
+
+*   **The Offshore Account Strategy (Externalization):**
+    Simultaneously, they entrust their 'True Self' (Capacity for pain, Conscience, Core Values) to an **'Extended Self'**—usually their family or a specific loved one. Like a corrupt CEO hiding assets in an **Offshore Account** to avoid bankruptcy liability, they hide their soul in this external safe-box to remain emotionally invulnerable while committing crimes.
+
+*   **The Failure of Symmetry:**
+    When such a person destroys another's 'Family' (The victim's Core Value) and offers their own 'Body' (The perpetrator's Tool) as payment, Symmetry is violated.
+    > **The Trade:** `[Victim's Core] ≠ [Perpetrator's Tool]`
+
+*   **The Verification:**
+    The true 'Settlement' occurs only when the perpetrator's 'Extended Self' (their family) is threatened. **Their mask falls and their true suffering begins only when the retribution reaches this external sanctuary.** If they react with shock or rage at this prospect, it proves that their previous acceptance of responsibility was a lie. They were attempting to pay a debt of 'Gold' with 'Dirt.'
+
 ---
 
 ### 5. The Golden Rule and Settlement: Verification Algorithms
