@@ -70,7 +70,7 @@ Even for a highly intelligent person, performing ethical calculations for every 
 In other words, morality is a compressed file that omits the detailed context of ethics and leaves only the **'Principles'** for the sake of **'social convenience and energy efficiency.'**
 
 #### 2.4. Deep Dive: Morality as 'Social Ego'
-At this point, we must recall the definition from **<The Engineering of The Self>**. What is the individual Self? It is an aggregate of **'Bias'** formed to protect core values, and **'Stubbornness'** to maintain that bias.
+At this point, we must recall the definition from **'The Engineering of The Self'**. What is the individual Self? It is an aggregate of **'Bias'** formed to protect core values, and **'Stubbornness'** to maintain that bias.
 
 Expanding this structure to the social level reveals the true nature of morality. **Morality is the 'Social Ego.'**
 
