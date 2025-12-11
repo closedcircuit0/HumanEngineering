@@ -160,10 +160,10 @@ How does morality change? We often believe that slavery was abolished and racism
 *   **Victory of Black Civil Rights:** This was not because the morality of whites suddenly improved. It was because black people struggled with blood and sweat, physically proving to the system that **"the cost of ignoring us is greater than the cost of respecting us."** In other words, they succeeded in recognizing their share in the 'struggle of all against all' and signing a **'New Ceasefire Agreement (Ethics).'** This is a legitimate victory.
 *   **Fossilization of New Morality:** However, the moment the victorious ethics hardens into 'Morality (Rule),' another contradiction arises. Current 'Political Correctness (PC)' provides excessive convenience to black people, but is insensitive to the suffering of Asians or Latinos in similar situations.
     *   **Reason:** Asians or Latinos have not yet demonstrated as much **'Political Power (Numbers, Fighting Power)'** to the system as black people have.
-    *   **The Illusion of ‘Natural Rights’:**
+*   **The Illusion of ‘Natural Rights’:**
 The problem is not that one group has more rights than another. The problem is the delusion that these rights are ‘Natural Oughts’ given from above.
 When anti-racism is enforced as a ‘Sacred Ought’ backed by power, rather than a structural result, it becomes a dogma.
-Racism does not disappear because it is ‘evil,’ nor does it disappear because it ‘should’ be inefficient.
+    *   Racism does not disappear because it is ‘evil,’ nor does it disappear because it ‘should’ be inefficient.
 It disappears only ‘when’ it becomes ‘systemically inefficient’ — that is, when the cost of discriminating finally exceeds the profit of discriminating.
 Until that calculation flips, no amount of moral preaching will change the reality. Rights are not given; they are the confirmation that the efficiency equation has changed.
 
