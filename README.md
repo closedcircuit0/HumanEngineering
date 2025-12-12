@@ -66,7 +66,9 @@ The core logic unfolds in four sequential, yet interconnected, stages:
 Intelligence does not arise in a vacuum. It is a solution to a fundamental problem. The system must operate under two harsh constraints: the world's data is presented as **Discontinuous** fragments, and the 'present' moment is perpetually inaccessible (**The Vanished Present**). This creates a state of radical uncertainty that must be overcome.
 
 **2. The Engine: The Birth of the Flickering Mind**
-To solve this problem, the universal process of **Intelligence** ignites. It functions through **Flickering**: a ceaseless, high-speed oscillation between two modes. First, it weaves the discontinuous past into a coherent story (**Interpolation**). Second, based on that story, it infers the structure of the future (**Prediction**). This Flickering process is the essence of all thought and the engine that generates our experience of linear time.
+To solve this problem, the universal process of Intelligence ignites. It functions through Flickering: a ceaseless, high-speed oscillation between two modes.
+First, it weaves discontinuous data fragments into a coherent **'Flow'** **(Interpolation)**. Second, it halts that flow to infer the static **'Structure'** or essence hidden within it **(Prediction)**.
+This Flickering process is the essence of all thought and the engine that generates our experience of linear time.
 
 **3. The Architecture: The Emergence of the Self and Its World**
 The engine's operation renders a stable operating system. Key components emerge not as separate parts, but as interdependent functions of this single process:
