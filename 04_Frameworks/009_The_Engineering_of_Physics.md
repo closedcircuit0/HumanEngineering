@@ -178,18 +178,18 @@ Mass is not a cause but a result value.
 
 ### 6. Macro Dynamics: Fluid Dynamic Universe and Elimination of Gravity
 
-The universe is not 'matter floating in empty space,' but a **'Huge Fluid System filled with Electromagnetic Medium (Plenum).'** Therefore, the macroscopic movement of the universe follows **Navier-Stokes Equations (Fluid Dynamics),** not F=ma (Solid Dynamics).
+The universe is not 'matter floating in empty space,' but a **'Huge Fluid System filled with Electromagnetic Medium (Plenum).'** Therefore, the macroscopic movement of the universe follows **Navier-Stokes Equations (Fluid Dynamics),** not $F=ma$ (Solid Dynamics).
 
 #### 6.1. Structure of Equation: HE Interpretation of Navier-Stokes
 Each term of this equation describing the movement of the universe is perfectly translated into the language of HE.
 
 > **Structure of Equation:** [Acceleration] = [Pressure Difference] + [Viscosity (Friction)] + [External Alignment Direction]
 
-*   **Pressure Term (-Grad p): Domino Effect of Density Alignment.**
+*   **Pressure Term ($-\nabla p$): Domino Effect of Density Alignment.**
     *   It is the movement pressure of electromagnetic force occurring between [Oversaturation/Low Density] area and [Stability/High Density] area in the medium. All movements in cosmic space are not 'passing through empty places,' but a **'Continuous Phase Substitution Process of pushing out the front medium (t-push) and filling the back medium by reaction (t-pull).'**
-*   **Viscosity Term:** **Coupling Strength.**
+*   **Viscosity Term ($\mu \nabla^2 \mathbf{u}$): Coupling Strength.**
     *   The property of structures (z) trying to suppress flow (t) and maintain form by electromagnetic entanglement with each other. Solids are fluids with near-infinite viscosity.
-*   **External Force (f): Macroscopic Density Alignment Directionality.**
+*   **External Force ($\mathbf{f}$): Macroscopic Density Alignment Directionality.**
     *   Cosmic tendency for the entire system to move towards a more efficient (High Density) coupling state.
 
 #### 6.2. Reality of Gravity: Density Alignment Pressure
