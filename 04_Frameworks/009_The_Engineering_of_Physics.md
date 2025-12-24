@@ -57,7 +57,7 @@ The electromagnetic medium moves by only two mechanisms. These two explain all '
 
 #### 3.1. Coupling: Will toward Efficient Alignment
 *   **Definition:** The tendency of complementary charge structures (e.g., + and -) to entangle and integrate into a **'Larger Structure (z)'** when they meet. (Attraction, Chemical Bond)
-*   **Principle:** Because running one integrated model (stable structure) costs less **'Prediction Cost (Energy)'** for the system than running two separate prediction models. This is not 'love' but 'efficiency.'
+*   **Principle:** Because running one integrated model (stable structure) costs less **'Prediction Cost (Energy)'** for the system than running two separate prediction models.
 
 #### 3.2. Exclusion: Formation of Boundary
 *   **Definition:** The prohibition rule that identical charge structures (z) cannot occupy the same spatiotemporal coordinate. (Repulsion, Pauli Exclusion Principle)
