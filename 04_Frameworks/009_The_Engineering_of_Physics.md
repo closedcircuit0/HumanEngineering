@@ -3,7 +3,7 @@
 
 ---
 
-### 1. Epistemological Foundation: Redefining the Status of Physics (z vs t)
+### 1. Epistemological Foundation: Redefining the Status of Physics (t vs z) 
 
 In HumanEngineering, if the body is the **First External World** encountered by intelligence, then the **Second External World** is the Other and Nature.
 Just as we deductively analyzed the Self, the Other, and Interaction starting from the **Zeroth Axiom (The Focus)** through the Engineering of Intelligence, Nature and Physics must also be subjects of deductive analysis starting strictly from axioms.
