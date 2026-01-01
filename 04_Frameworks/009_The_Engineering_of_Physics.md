@@ -192,12 +192,24 @@ Each term of this equation describing the movement of the universe is perfectly 
 *   **External Force ($\mathbf{f}$): Macroscopic Density Alignment Directionality.**
     *   Cosmic tendency for the entire system to move towards a more efficient (High Density) coupling state.
 
-#### 6.2. Reality of Gravity: Density Alignment Pressure
-In HumanEngineering, an independent force called 'Gravity' does not exist. It is a **'Pressure Rearrangement Phenomenon of the Medium due to Density Difference.'**
+#### 6.2. Reality of Gravity: The Dynamic Settlement of Pressures
 
-*   **Mechanism:** The universe couples scattered electromagnetic forces into **'High Density Structures (Matter)'** for efficiency. High-density structures tend to gather in one place to form a **'Single Processing Cluster'** to increase each other's computational efficiency (minimizing information processing costs). Due to this, a huge **'Alignment Pressure'** heading **[Low Density Medium] -> [High Density Center]** is formed throughout the universe.
-*   **Formation of Earth:** Centering on the inner core (High Density Coupling Body), the surrounding media aligned in order of density to form layers (Outer Core, Mantle, Crust, Atmosphere). It is exactly the same as the **'Principle of Buoyancy'** where heavy things sink and light things float. In the process, as the inner core becomes high density and releases heat, the heat expands to create a pressure boundary of electromagnetic force, maintaining balance with the alignment pressure toward the inner core. What stacks on this boundary line are the mantle and crust.
-*   **Our State (Pressed, Not Pulled):** An apple does not fall because the Earth pulls it. The cosmic density alignment pressure 'Pushes' the apple (Relative High Density) toward the center of the Earth, and since the ground blocks that flow, the apple is **'Pressed'** against the ground. The weight we feel is not Earth's attraction, but the force of cosmic space pressure trying to align my body toward the center of the Earth.
+In HumanEngineering, gravity is not an independent force, nor is it a one-way street. It is the **'Net Settlement (Balance)'** resulting from the fierce dialectic between the universe's will to compress and the core's will to expand.
+
+*   **Thesis: Universal Input (The Generation of Density Alignment Pressure)**
+    *   **Clustering for Efficiency:** The universe operates on a principle of energy efficiency, seeking to combine scattered electromagnetic forces into **'stable high-density structures.'** High-density structures tend to gather together to form a **'Single Processing Cluster'** to minimize information processing costs.
+    *   **Density Alignment Pressure:** Consequently, **within the cluster's sphere of influence**, a massive pressure heading **[Low Density Medium $\rightarrow$ High Density Center]** is formed. This is the origin of the force that "pushes" objects toward the center.
+
+*   **Antithesis: Internal Output (The Generation of Thermal Expansion Pressure)**
+    *   **Step 1. Stabilization & Surplus Force:** When high-density bodies in the center combine to form a more **'stable fused body,'** the cost (energy) required to maintain the structure decreases. The system releases this difference—the **'Surplus Electromagnetic Force'** that is no longer needed to be trapped inside—to the outside. (**ex. Nuclear Fusion**)
+    *   **Step 2. Oversaturation & Volume Constraint:** This released surplus force creates an **'oversaturated'** state in the surrounding medium. According to the Pauli Exclusion Principle, energized particles demand more exclusive space, which inevitably leads to **'Volume Expansion.'**
+    *   **Step 3. Lower Density & Passive Rise:** As volume increases, density decreases. In a universe dominated by density alignment, as high-density material occupies the bottom, low-density (expanded) medium is **'displaced'** outwards. This is the reality of **'Buoyancy'** and **'Expansion Pressure.'**
+    *   **Step 4. Distance Attenuation ($1/r^2$):** This expansion pressure radiates outward from the center point (Inner Core), weakening as the surface area increases ($1/r^2$).
+
+*   **Synthesis: The Settlement and Crust Formation (The Result)**
+    *   **Reaching the Equilibrium Point:** There exists a point where the weakening *Internal Expansion Pressure* and the incoming *Universal Alignment Pressure* **appropriately** balance each other.
+    *   **Energy Exchange & Phase Transition:** The medium rising at this boundary **contacts the cold medium outside the boundary**, loses its surplus energy, and stops expanding. The medium, which was fluid, undergoes a **'Phase Transition'** into a **'Hyper-viscous State (Solid)'** that appears not to flow on a human timescale.
+    *   **Sedimentation (Formation of Crust):** These cooled and solidified materials accumulate at the boundary to form the **'Crust.'** The creation of the **'current pressure environment on the crust pressed by the atmospheric layer' known as 1 atm—that is, the creation of gravity—**is the final result value of this settlement process.
 
 #### 6.3. [Case Study] Precision Dissection of Tides: Shielding and Liberation
 The existing explanation that "The Moon pulls water (Attraction)" is unintuitive and requires complex corrections such as centrifugal force to explain the tide on the opposite side. HE Physics solves this clearly as a problem of **'Pressure Balance.'**
